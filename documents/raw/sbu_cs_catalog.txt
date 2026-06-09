@@ -1,0 +1,706 @@
+SOURCE_NAME: sbu_cs_catalog
+SOURCE_URL: https://catalog.stonybrook.edu/preview_program.php?catoid=11&poid=1411
+---
+Program: Computer Science, BS - Stony Brook University
+Stony Brook University
+Jun 09, 2026
+Fall 2026 Undergraduate Catalog
+Select a Catalog
+Fall 2026 Undergraduate Catalog
+Fall 2026 Graduate Catalog
+Fall 2026 Health Sciences Catalog
+Spring 2026 Undergraduate Catalog [ARCHIVED CATALOG]
+Spring 2026 Graduate Catalog [ARCHIVED CATALOG]
+Spring 2026 Health Sciences Catalog [ARCHIVED CATALOG]
+Fall 2025 Undergraduate Catalog [ARCHIVED CATALOG]
+Fall 2025 Graduate Catalog [ARCHIVED CATALOG]
+Fall 2025 Health Sciences Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Hierarchy Items
+Policies and Regulations
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+General Information
+Policies and Regulations
+Colleges and Schools
+Special Academic Opportunities
+The Stony Brook Curriculum (SBC)
+Majors
+Minors
+Course Descriptions
+Academic Calendars
+Bulletin Archives
+Career and Program Explorer
+Financial Aid
+Tuition and Costs
+My Portfolio
+HELP
+Fall 2026 Undergraduate Catalog
+Computer Science, BS
+Print Degree Planner (opens a new window)
+|
+Print-Friendly Page (opens a new window)
+Add to Portfolio (opens a new window)
+Department of Computer Science, College of Engineering and Applied Sciences
+Degree Awarded:
+Bachelor of Science in Computer Science
+Chair
+: Samir Das
+Undergraduate Program Director:
+Kevin McDonnell
+Undergraduate Advisor:
+Paul Fodor
+Undergraduate Program Coordinator:
+Sarah Nelson
+Office
+: 101 New Computer Science Building
+Phone
+: (631) 632-8470
+Email
+:
+csugcomm@cs.stonybrook.edu
+Department Website
+Computer science is the study of computer systems, including the architecture of computers, development of computer software, information processing, computer applications, algorithmic problem-solving, and the mathematical foundations of the discipline.
+The Computer Science major provides professional education in computer science to prepare the student for graduate study or for a career in the computing field. Students learn concepts and skills needed for designing, programming, and applying computer systems while also learning the theoretical and mathematical foundations of computer science. They have sufficient freedom in the program to pursue other academic interests in the liberal arts, sciences, and engineering to complement their study of computer science. The Computer Science program is accredited by the Computing Accreditation Commission of ABET,
+http://www.abet.org
+under the commission’s General Criteria and the Program Criteria for Computer Science and Similarly Named Computing Programs.
+Many students prepare for their professional careers through internships at local companies. Computer science graduates are recruited heavily, and career opportunities include developing software systems for a diverse range of applications such as: user interfaces; networks; databases; forecasting; web technologies; and medical, communications, satellite, and embedded systems. Many are employed in the telecommunication and financial industries, and some are self-employed as heads of software consulting companies.
+The Department of Computer Science offers two undergraduate majors: Computer Science and Information Systems. Requirements and courses for the latter appear under the program title in the alphabetical listings of Approved Majors, Minors, and Programs. The two programs of study share a number of courses, particularly in the first two years, so that it is possible to follow a program that permits a student to select either major by the start of the junior year. The Department also offers a minor in computer science, a joint B.S./M.S. program, and an honors program.
+Admission Requirements
+Qualified freshman and transfer students who have indicated their interest in the major on their applications may be admitted directly as a degree major or as a pre-major. Pre-majors are placed into the Area of Interest (AOI) program and to be eligible for the degree, they must be admitted to and declare the major. The requirements and application process for matriculation are detailed below. Students in majors and pre-majors outside of Computer Science and Information Systems may apply for admission to the degree program following a separate process, outlined below.
+Intellectual honesty and academic integrity are cornerstones of academic and scholarly work. The department may table any applications for major/minor admission until academic judiciary matters are resolved. An academic judiciary matter will be identified by a grade of “Q” in the instance of a first offense.
+Area of Interest in CSE and ISE and ISE Majors
+Applications for major admission from AOI students and ISE majors are reviewed twice per year and must be received by January 5 for Spring admission and June 5 for Fall admission. Students who submit their application on time will be admitted if they meet the following requirements:
+Completed CSE 113, CSE 114, and CSE 214. (Honors students may substitute CSE 160, CSE 260, and CSE 150 .) Transfer students matriculating at Stony Brook with credit for some (but not all) of these courses must complete the remaining course(s) before applying for major admission. Transfer students matriculating at Stony Brook with credit for all three courses must work with a CSE advisor to identify an appropriate course to complete before applying for major admission. Once a student matriculates at Stony Brook, these courses must be taken at Stony Brook University.
+Earn grades of B- or higher and a grade point average of 3.00 or higher in the above courses (Transfer students who have completed equivalent courses at another school with grades of B- or higher need not retake these courses, but should keep in mind that grades do not transfer and grade point averages are calculated on the basis of courses completed at Stony Brook).
+Repeated at most one of these courses.
+Earned a cumulative grade point average of 3.00 or higher.
+Students must complete these requirements no later than one year after they enroll in the first course that applies towards major entry. Students must apply for admission by the application deadline immediately following the one year limit. Admission of AOI students who apply late will follow the process for students outside of Computer Science and Information Systems.
+Students outside of Computer Science and Information Systems
+Applications for major admission are reviewed twice per year and must be received by January 5 for Spring admission and June 5 for Fall admission. Students who do not meet the requirements for AOI admission above will not be considered. Fulfilling the requirements does not guarantee acceptance. Admission is competitive and contingent upon program capacity.
+Degree Requirements
+Enrolling in CSE Courses
+To enroll in CSE courses, students must:
+Have completed all prerequisites with a grade of C or higher. (Pass/No Credit grades are not acceptable to meet prerequisites.) For transfer students, official transfer credit evaluations must have been completed.
+Failure to satisfy the prerequisites or to attend the first class may result in deregistration. The Pass/No Credit option is not available for CSE courses.
+Requirements for the Major
+The major in Computer Science leads to the Bachelor of Science degree. Completion of the major requires approximately 80 credits. At least 24 credits from items 1 to 3 below, and at least 18 credits from items 2 and 3, must be completed at Stony Brook.
+1. Required Introductory Courses
+CSE 113 - Foundations of Computer Science I
+4 credits
+OR
+CSE 150 - Foundations of Computer Science: Honors
+4 credits
+CSE 114 - Introduction to Object-Oriented Programming
+4 credits
+CSE 213 - Foundations of Computer Science II
+4 credits
+CSE 214 - Data Structures
+4 credits
+CSE 220 - Systems Fundamentals I
+4 credits
+Note
+: Students may substitute the four courses
+CSE 160
+,
+CSE 161
+,
+CSE 260
+and
+CSE 261
+for the three courses CSE 114, CSE 214 and CSE 307. Students pursuing Honors may substitute
+CSE 350 - Theory of Computation: Honors
+for CSE 213.
+2. Required Advanced Courses
+CSE 307 - Principles of Programming Languages
+3 credits
+CSE 316 - Fundamentals of Software Development
+3 credits
+CSE 320 - Systems Fundamentals II
+3 credits
+CSE 373 - Analysis of Algorithms
+3 credits
+OR
+CSE 385 - Analysis of Algorithms: Honors
+4 credits
+CSE 356 - Cloud Computing
+3 credits
+OR
+CSE 416 - Software Engineering
+3 credits
+Note
+: CSE 356 or CSE 416 must be completed at Stony Brook University.
+3. Computer Science Electives
+Six additional upper-division technical CSE courses, each of which must carry at least three credits. Courses used to satisfy the required advanced courses requirement may not be used to satisfy the computer science electives requirement. Technical electives do not include teaching practica (CSE 475), the first part of the senior honors project (CSE 495), and courses designated as non-technical in the course description (such as CSE 301). Students may only use 3 credits from the following courses to satisfy one upper-division technical elective for the CSE major requirements:
+CSE 487
+,
+CSE 496
+,
+VIP 395
+,
+VIP 396
+,
+VIP 495
+,
+VIP 496
+.
+4. One of the following calculus course sequences:
+AMS 151 - Applied Calculus I
+3 credits
+AMS 161 - Applied Calculus II
+3 credits
+MAT 125 - Calculus A
+3 credits
+MAT 126 - Calculus B
+3 credits
+MAT 127 - Calculus C
+3 credits
+MAT 131 - Calculus I
+4 credits
+MAT 132 - Calculus II
+4 credits
+Equivalency for MAT courses achieved through the Mathematics Placement Examination is accepted to meet the Calculus course requirements.
+5. One of the following linear algebra courses
+MAT 211 - Introduction to Linear Algebra
+3 credits
+AMS 210 - Applied Linear Algebra
+3 credits
+6. Required Upper-Division Statistics Course
+AMS 310 - Survey of Probability and Statistics
+3 credits
+7. At least one of the following science lecture/laboratory combinations:
+BIO 201 - Fundamentals of Biology: Organisms to Ecosystems
+3 credits
+BIO 204 - Fundamentals of Scientific Inquiry in the Biological Sciences I
+2 credits
+OR
+BIO 202 - Fundamentals of Biology: Molecular and Cellular Biology
+3 credits
+BIO 204 - Fundamentals of Scientific Inquiry in the Biological Sciences I
+2 credits
+OR
+BIO 203 - Fundamentals of Biology: Cellular and Organ Physiology
+3 credits
+BIO 204 - Fundamentals of Scientific Inquiry in the Biological Sciences I
+2 credits
+OR
+CHE 131 - General Chemistry IB
+4 credits
+CHE 133 - General Chemistry Laboratory I
+1 credit
+OR
+CHE 152 - Molecular Science I
+4 credits
+CHE 154 - Molecular Science Laboratory I
+2 credits
+OR
+PHY 126 - Classical Physics B
+3 credits
+PHY 133 - Classical Physics Laboratory I
+1 credit
+OR
+PHY 131 - Classical Physics I
+3 credits
+PHY 133 - Classical Physics Laboratory I
+1 credit
+OR
+PHY 141 - Classical Physics I: Honors
+3 credits
+PHY 133 - Classical Physics Laboratory I
+1 credit
+8. One additional natural science course selected from below
+AST 203 - Astronomy
+4 credits
+AST 205 - Introduction to Planetary Sciences
+3 credits
+BIO 201 - Fundamentals of Biology: Organisms to Ecosystems
+3 credits
+BIO 202 - Fundamentals of Biology: Molecular and Cellular Biology
+3 credits
+BIO 203 - Fundamentals of Biology: Cellular and Organ Physiology
+3 credits
+CHE 131 - General Chemistry IB
+4 credits
+CHE 132 - General Chemistry II
+4 credits
+CHE 152 - Molecular Science I
+4 credits
+CHE 321 - Organic Chemistry I
+4 credits
+CHE 322 - Organic Chemistry IIA
+4 credits
+CHE 331 - Molecular Science II
+4 credits
+CHE 332 - Molecular Science III
+4 credits
+PHY 125 - Classical Physics A
+3 credits
+PHY 126 - Classical Physics B
+3 credits
+PHY 127 - Classical Physics C
+3 credits
+PHY 131 - Classical Physics I
+3 credits
+PHY 132 - Classical Physics II
+3 credits
+PHY 142 - Classical Physics II: Honors
+3 credits
+PHY 251 - Modern Physics
+3 credits
+Note:
+One may not take science courses that are deemed equivalent to satisfy 7 and 8 (e.g., PHY 125 and PHY 131). Please review course descriptions for more information.
+9. Required Non-Technical Courses
+CSE 300 - Technical Communications
+3 credits
+CSE 312 - Social, Legal, and Ethical Issues in Computing
+3 credits
+Note:
+All students are encouraged to discuss their program with an undergraduate advisor. In Requirement 2 above, students who are double majoring with ECE, ESE or MEC may substitute their senior design (440/441) for
+CSE 356 - Cloud Computing
+or
+CSE 416 - Software Engineering
+provided that the design project contains a significant software component. Approval of the Department of Computer Science is required.
+Grading
+All courses taken to satisfy Requirements 1 through 9 must be taken for a letter grade. The courses in Requirements 1-6, and 9 must be passed with a letter grade of C or higher. The grade point average for the courses in Requirements 7 and 8 must be at least 2.00.
+Specializations
+In consultation with a program director, students have the option to select an area of specialization. This allows the student to take a subset of courses, promoting in-depth exploration in the various fields of computer science. All courses taken to fulfill the requirements of a specialization must be completed with a grade of C or higher. Courses used to satisfy required advanced courses (i.e. CSE 356) may not be used to satisfy the computer science specialization requirements.
+Specialization in Artificial Intelligence and Data Science
+The specialization in artificial intelligence and data science emphasizes modern approaches for building intelligent systems using machine learning. It requires four courses selected from the list below. The four courses must include at least two core courses. Students may declare their participation in the specialization after completing two core courses.
+Core Courses
+CSE 351 - Introduction to Data Science
+3 credits
+CSE 352 - Artificial Intelligence
+3 credits
+CSE 353 - Machine Learning
+3 credits
+CSE 357 - Statistical Methods for Data Science
+3 credits
+Electives
+CSE 323 - Human-Computer Interaction
+3 credits
+CSE 327 - Fundamentals of Computer Vision
+3 credits
+CSE 332 - Introduction to Visualization
+3 credits
+CSE 337 - Scripting Languages
+3 credits
+CSE 354 - Natural Language Processing
+3 credits
+CSE 371 - Logic
+3 credits
+CSE 378 - Introduction to Robotics
+3 credits
+CSE 390 - Special Topics in Computer Science
+3 credits
+CSE 487 - Research in Computer Science
+0-3 credits
+*
+CSE 495 - Senior Honors Research Project I
+3 credits
+OR
+CSE 496 - Senior Honors Research Project II
+3 credits
+*
+Note: *
+Special topic or research project must be in artificial intelligence or data science.
+Specialization in Human-Computer Interaction
+The specialization in human-computer interaction emphasizes both the psychology aspects of effective human-computer interactions and the technical design and implementation of systems for those interactions. It requires four core courses, two electives, and a project. Students may declare their participation in the specialization after completing two core courses.
+Core Courses
+CSE 323 - Human-Computer Interaction
+3 credits
+PSY 260 - Survey in Cognition and Perception
+3 credits
+CSE 328 - Fundamentals of Computer Graphics
+3 credits
+OR
+CSE 332 - Introduction to Visualization
+3 credits
+CSE 333 - User Interface Development
+3 credits
+Two electives from the following, including at least one CSE course:
+CSE 327 - Fundamentals of Computer Vision
+3 credits
+CSE 328 - Fundamentals of Computer Graphics
+3 credits
+CSE 332 - Introduction to Visualization
+3 credits
+CSE 334 - Introduction to Multimedia Systems
+3 credits
+CSE 336 - Internet Programming
+3 credits
+CSE 352 - Artificial Intelligence
+3 credits
+CSE 364 - Advanced Multimedia Techniques
+3 credits
+CSE 366 - Introduction to Virtual Reality
+3 credits
+CSE 378 - Introduction to Robotics
+3 credits
+CSE 390 - Special Topics in Computer Science
+3 credits
+*
+PSY 368 - Sensation and Perception
+3 credits
+PSY 369 - Special Topics in Cognition and Perception
+3 credits
+Note:
+*Special topic must be in human-computer interaction.
+Project
+Completion of
+CSE 487 - Research in Computer Science
+or
+CSE 488 - Internship in Computer Science
+or
+CSE 495
+/
+CSE 496
+Senior Honors Research Project I, II, on a topic in human-computer interaction. The project may not be applied towards the requirements of another specialization.
+Specialization in Game Programming
+The specialization in game programming prepares students for a career as either a professional game developer or researcher. Game graphics and multiplayer network programming techniques are stressed. The specialization also emphasizes original game development, game design methodology, and team projects and presentations. It requires four core courses, two electives, and a project. Students may declare their participation in the specialization after completing two core courses.
+Core Courses
+CSE 306 - Operating Systems
+3 credits
+CSE 328 - Fundamentals of Computer Graphics
+3 credits
+CSE 380 - 2D Game Programming
+3 credits
+CSE 381 - 3D Game Programming
+3 credits
+Two electives from the following:
+CSE 310 - Computer Networks
+3 credits
+CSE 327 - Fundamentals of Computer Vision
+3 credits
+CSE 331 - Computer Security Fundamentals
+3 credits
+CSE 332 - Introduction to Visualization
+3 credits
+CSE 334 - Introduction to Multimedia Systems
+3 credits
+CSE 352 - Artificial Intelligence
+3 credits
+CSE 353 - Machine Learning
+3 credits
+CSE 355 - Computational Geometry
+3 credits
+CSE 364 - Advanced Multimedia Techniques
+3 credits
+CSE 376 - Advanced Systems Programming in UNIX/C
+3 credits
+CSE 378 - Introduction to Robotics
+3 credits
+Project
+Completion of
+CSE 487 - Research in Computer Science
+or
+CSE 488 - Internship in Computer Science
+or
+CSE 495
+/
+CSE 496
+Senior Honors Research Project I, II, on a topic in game programming. The project may not be applied towards the requirements of another specialization.
+Note: Students specializing in Game Programming are encouraged to complete the natural science sequence in physics, see part seven (7) of the Requirements for the Major in Computer Science.
+Specialization in Security and Privacy
+The specialization in Security and Privacy prepares students for a career as a security engineer, threat analyst, or security / privacy researcher. The courses under this specialization are taught by the computer science faculty affiliated with the National Security Institute. The specialization covers the fundamentals of security and privacy, while also exposing the student to some of the latest developments. Students may declare their participation in the specialization after completing one of the core courses and at least two other courses that fall below.
+Core Courses
+CSE 331 - Computer Security Fundamentals
+3 credits
+AND One of the following:
+CSE 360 - Software Security
+3 credits
+CSE 361 - Web Security
+3 credits
+CSE 362 - Mobile Security
+3 credits
+CSE 363 - Offensive Security
+3 credits
+Three electives from the following, not to include any course taken as a core course.
+Note that at most one course from each item may be used to satisfy the specialization requirements.
+CSE 310 - Computer Networks
+3 credits
+CSE 360 - Software Security
+3 credits
+CSE 361 - Web Security
+3 credits
+CSE 362 - Mobile Security
+3 credits
+CSE 363 - Offensive Security
+3 credits
+CSE 304 - Compiler Design
+3 credits
+CSE 306 - Operating Systems
+3 credits
+OR
+CSE 356 - Cloud Computing
+3 credits
+OR
+CSE 376 - Advanced Systems Programming in UNIX/C
+3 credits
+CSE 390 - Special Topics in Computer Science
+3 credits
+*
+CSE 487 - Research in Computer Science
+0-3 credits
+CSE 495 - Senior Honors Research Project I
+3 credits
+OR
+CSE 496 - Senior Honors Research Project II
+3 credits
+Note:
+*The special topic or project course must be in computer security.
+Specialization in Systems Software Development
+The specialization in systems software development prepares students for a career in software applications development or systems software development. Students may declare their participation in the specialization after completing two of the courses listed below.
+Five of the following courses are required, at most two of which may be drawn from
+CSE 331
+,
+CSE 360
+-
+CSE 363
+:
+CSE 304 - Compiler Design
+3 credits
+CSE 306 - Operating Systems
+3 credits
+CSE 310 - Computer Networks
+3 credits
+CSE 311 - Systems Administration
+3 credits
+CSE 331 - Computer Security Fundamentals
+3 credits
+CSE 356 - Cloud Computing
+3 credits
+CSE 360 - Software Security
+3 credits
+CSE 361 - Web Security
+3 credits
+CSE 362 - Mobile Security
+3 credits
+CSE 363 - Offensive Security
+3 credits
+CSE 376 - Advanced Systems Programming in UNIX/C
+3 credits
+CSE 390 - Special Topics in Computer Science
+3 credits
+*
+Note:
+*Special topics courses must be in systems software development.
+Notes:
+*Special topics courses must be in systems software development.
+Honors in Computer Science
+Honors in Computer Science offers a specially designed curriculum to a limited number of exceptional students. Honors is open to freshmen and to continuing students. To be admitted as a freshman, students must demonstrate overall academic excellence, an unweighted high school average of 93 or higher (on a 100 point scale), and high grade averages in mathematics and the natural sciences. Continuing Computer Science majors who meet all the following criteria may apply to Honors in Computer Science: have U2 standing or higher, completed at least two technical CSE courses and earned a weighted average of 3.50 in all CSE courses, and earned a cumulative grade point average of 3.50. Students whose GPA drops below this standard may lose Honors designation.
+Honors course offerings include intro­duc­tory course sequences in programming and in the foundations of computing, advanced courses on selected topics that reflect active research areas within the Department, and a two-semester senior honors project. Students will be able to take at least one honors course during most of the semesters in a four-year program of study. Honors students must complete the regular requirements of the Computer Science major. Final conferral of honors is contingent upon successful completion of all required courses in the Computer Science major, the two-semester honors project,
+CSE 303
+or
+CSE 350
+, a minimum of three honors courses in addition to the project, and a grade point average of at least 3.50, both cumulative and in CSE courses. Graduate courses may be counted as honors courses with prior approval of the department. The teaching practicum
+CSE 475
+may be substituted for one of the honors courses. Other suitable advanced undergraduate courses may be counted as honors courses with prior approval of the department. The requirement of three honors courses can be relaxed to one course for students with at least a 3.75 grade point average, both overall and for CSE courses.
+Honors students in good standing at the end of the junior year will, on application, be recommended for admission to the five-year joint B.S./M.S. program in Computer Science. B.S./M.S. applicants who successfully complete the honors requirements may be considered for a graduate student assistantship. (It is recommended that these students complete an undergraduate teaching practicum in the junior or senior year.)
+Accelerated BS in CSE + MS in CSE Program
+Computer Science majors may apply for admission to a special program that leads to a Bachelor of Science degree, typically completed by the fourth year, and subsequently a Master of Science degree in Computer Science completed in an accelerated timeframe. Students usually apply to the program in their junior year.
+Students must satisfy the respective requirements of both the B.S. degree and the M.S. degree, but the main advantage of the program is that nine credits may be simultaneously applied to both the under­graduate and graduate requirements. The M.S. degree can therefore be earned in less time than that re­quired by the traditional course of study.
+For more details about the B.S./M.S. program, see the undergraduate or graduate program director for the selected programs.
+Accelerated BS in CSE + MS in DAS Program
+Computer Science majors may apply for admission to a special program that leads to a Bachelor of Science degree, typically completed by the fourth year, and subsequently a Master of Science degree in Data Science completed in an accelerated timeframe. Students usually apply to the program in their junior year.
+Students must satisfy the respective requirements of both the B.S. degree and the M.S. degree, but the main advantage of the program is that nine credits may be simultaneously applied to both the under­graduate and graduate requirements. The M.S. degree can therefore be earned in less time than that re­quired by the traditional course of study.
+For more details about the B.S./M.S. program, see the undergraduate or graduate program director for the selected programs.
+SBC Courses
+This table illustrates major courses that can also be used to fulfill
+SBC requirements
+. (See Note 1 & Note 2)
+SBC Category
+Required Major Courses
+Optional Major Courses (see Note 3)
+ARTS
+GLO
+HUM
+LANG (see Note 4)
+QPS
+AMS 151, AMS 161
+SBS
+SNW
+BIO 201, CHE 131, CHE 132, CHE 152, PHY 125, PHY 126, PHY 127, PHY 131, PHY 132, PHY 141, PHY 142
+TECH
+CSE 114
+CSE 160
+USA
+WRT
+STAS
+CSE 312
+EXP+
+CSE 316 (partial fulfillment), CSE 356 (partial fulfillment), or CSE 416 (partial fulfillment)
+CSE 306 (partial fulfillment)
+HFA+
+SBS+
+CSE 316 (partial fulfillment), CSE 416 (partial fulfillment)
+CSE 306 (partial fulfillment)
+STEM+
+AMS 310, CSE 316 (partial fulfillment), CSE 416 (partial fulfillment)
+AMS 210, AST 203, AST 205, BIO 202, BIO 203, CHE 321, CHE 331, CSE 306 (partial fulfillment), MAT 211, PHY 251, PSY 260
+CER
+CSE 312
+DIV (see Note 5)
+ESI
+CSE 312, CSE 316 (partial fulfillment), CSE 416 (partial fulfillment)
+CSE 306 (partial fulfillment)
+SPK
+CSE 300
+WRTD
+CSE 300
+Note 1:
+Some course information may be subject to change. Please contact your
+major advisor
+for additional consultation.
+Note 2:
+For majors that require study in a related area or completion of a minor, visit the respective program’s “Major SBC Courses” page to view expanded SBC options.
+Note 3:
+Denotes any course in which students can choose from more than one option. These may include, but are not limited to, major electives, concentration/track/specialization courses, or calculus/physics/chemistry sequences.
+Note 4:
+CEAS majors, the Athletic Training major, the Respiratory Care major, and the Clinical Laboratory Sciences major are exempt from the LANG learning objective. Students enrolled in the major in Social Work are exempt from the LANG learning objective, but are required to enroll in and pass with a letter grade of C or higher the first semester of an elementary foreign language course numbered 111, or satisfy through alternate methods.
+Note 5:
+Students are responsible for completing the general education requirements published in the Bulletin that was current as of the first semester of matriculation (or rematriculation).
+The following student groups must satisfy the
+DIV learning objective as part of their degree requirements:
+Freshmen who matriculate in the Fall of 2019 or later
+Transfer students who matriculate in the Spring of 2020 or later
+Students who rematriculate in the Fall of 2019 or later
+Sample Course Sequence
+Freshman
+Fall Semester
+Credits
+Spring Semester
+Credits
+First Year Seminar 101
+1 credit
+First Year Seminar 102
+1 credit
+WRT 101
+3 credits
+WRT 102 (WRT)
+3 credits
+CSE 101 or CSE 103 (TECH)
+4 credits
+AMS 161
+3 credits
+AMS 151 (QPS)
+3 credits
+Natural Science Course + Lab
+4 credits
+SBC
+3 credits
+CSE 114 (TECH)
+4 credits
+SBC
+3 credits
+Total
+17 credits
+Total
+15 credits
+Sophomore
+Fall Semester
+Credits
+Spring Semester
+Credits
+CSE 214
+4 credits
+CSE 213
+4 credits
+CSE 113
+4 credits
+CSE 220
+4 credits
+AMS 210 or MAT 211
+3 credits
+AMS 310
+3 credits
+Natural Science
+3 credits
+SBC
+3 credits
+SBC
+3 credits
+Total:
+17 credits
+Total:
+14 credits
+Junior
+Fall Semester
+Credits
+Spring Semester
+Credits
+CSE 300 (SPK & WRTD)
+3 credits
+CSE 312 (STAS, CER, ESI)
+3 credits
+CSE 307
+3 credits
+CSE 316
+3 credits
+CSE 373
+3 credits
+UD Technical Elective 2
+3 credits
+UD Technical Elective 1
+3 credits
+SBC
+3 credits
+SBC
+3 credits
+Elective
+3 credits
+Total:
+15 credits
+Total:
+15 credits
+Senior
+Fall Semester
+Credits
+Spring Semester
+Credits
+CSE 320
+3 credits
+UD Technical Elective 5
+3 credits
+UD Technical Elective 3
+3 credits
+UD Technical Elective 6
+3 credits
+UD Technical Elective 4
+3 credits
+CSE 416 or CSE 356
+3 credits
+UD Elective
+3 credits
+Elective
+3 credits
+Elective or SBC (SBS+ or HFA+)*
+3 credits
+Total:
+15 credits
+Total:
+12 credits
+Notes:
+SBC refers to the following categories: DIV, HUM, SBS, ARTS, USA, GLO
+Students may satisfy the Pursue Deeper Understanding category of the SBC by completing CSE 316 and CSE 416
+*SBS+ or HFA+ SBC is required for students who complete CSE 356 in lieu of CSE 416.
+Back to Top
+|
+Print Degree Planner (opens a new window)
+|
+Print-Friendly Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Stony Brook University.
+Powered by
+Modern Campus Catalog™
+.

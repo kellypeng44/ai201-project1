@@ -1,0 +1,8 @@
+SOURCE_NAME: coursicle_dominik_kempa
+SOURCE_URL: https://www.coursicle.com/stonybrook/professors/DominikKempa/
+---
+Professor: Dominik Kempa
+Source: Coursicle
+
+Course: CSE 373 | Year: Senior | Major: CSE
+what.

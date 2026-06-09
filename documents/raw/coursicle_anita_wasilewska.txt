@@ -1,0 +1,95 @@
+SOURCE_NAME: coursicle_anita_wasilewska
+SOURCE_URL: https://www.coursicle.com/stonybrook/professors/AnitaWasilewska/
+---
+Professor: Anita Wasilewska
+Source: Coursicle
+
+Course: CSE 303 | Year: Senior | Major: SBU
+She actually just yelled at her tas during the quiz. Terrible Professor
+
+Course: CSE 303 | Year: Junior | Major: CSE
+Prof Wasilewska's slides are full of spelling mistakes. She gives the same quizzes and exams from previous semesters. The amount of time spend on this class for an A is less than 5 hours per semester. I am paying tuition and getting into debt and all I am getting out of this class: slides full of typos, and no up-to-date info on an important topic
+
+Course: CSE 303 | Year: Graduate | Major: SBU
+Her lectures are not helpful for the exam. Don't take her class.
+
+Course: CSE 303 | Year: Graduate | Major: CSE
+This is one of those classes where you can skip every single lecture and still get an A just by reading the slides/doing practice tests a day or two before the exams. You're better off doing this anyway because her accent turns her english into russian and her teaching is garbage. I recommend this class though because you can sleep in and get an A.
+
+Course: CSE 303 | Year: Senior | Major: CSE
+The slides are horrendous and full of spelling mistakes. She is rude and an egomaniac. Thinks she invented computer science. Badmouths other professors who actually have a Google Scholar page and do research. Yells at the students. I am sorry that I spent tuition money on this class and this instructor. No constructive feedback, just empty words.
+
+Course: CSE 303 | Year: Junior | Major: SBU
+She has such an ego that it's so hard to get anything through to her head
+
+Course: CSE 303 | Year: Junior | Major: CSE
+Her lecture slides are unreadable. She doesn't really explain the material well and she only answers to the easy questions.
+
+Course: CSE 303 | Year: Graduate | Major: CSE
+Terrible lectures. I am disgusted by how many errors there are in her slides. Every other slide contains a typo. Her quizzes and exams are the same. 5/5 learning difficulty because you'll find yourself buried in the textbook.
+
+Course: CSE 303 | Year: First-year | Major: CSE
+It's not a subject I find too useful in tech industry so I'm glad this course existed for an easy grade. You still have to work for the grade but it's much easier than what it could have been. I wish the professor was a better lecturer. She seems kind but the lectures are just too dull. Hopefully she improves her lecturing for next year.
+
+Course: CSE 303 | Year: First-year | Major: CSE
+This class was an absolutely atrocious experience. Her lectures are absolute garbage because she literally can't explain anything. One time a student asked a completely valid question and she responded with "trivial", but when a student asked an easy question, she said "AMAZING QUESTION. I'LL ANSWER THAT RIGHT NOW".
+
+Course: CSE 303 | Year: First-year | Major: SBU
+You could tolerate this class for giving easy A in the past. But this semester it's much more difficult and require 10 more efforts for an A. Must avoid.
+
+Course: CSE 303 | Year: Junior | Major: CSE
+AVOID TAKING THIS CLASS WITH HER. She is absolutely horrible, failed majority of the class last time she taught in. Doesn't like when you come to office hours for help either
+
+Course: CSE 303 | Year: First-year | Major: CSE
+Her TAs are very tough when grading you on the exams and quizzes. If you don't have the exact answer to a question provided on the answer key, you lose all the points on that question.
+
+Course: CSE 303 | Year: Junior | Major: CSE
+She is the worst professor I have ever taken. She can't teach, is arrogant, and frequently lashes out at people including her own TAs. THe only reason I took her class is since she is a free A by reusing old exam questions. However, now she wants the TAs to grade more harsly to "encourage" students to go to class since no one goes to class.
+
+Course: CSE 303 | Year: Junior | Major: CSE
+Take this class with her extremely seriously. The material is hard..no curve, so naturally this class becomes that much harder. Shes just an average professor for this class. But she is excellent for the other 300 level classes including AI and logic.
+
+Course: CSE 303 | Year: Junior | Major: CSE
+The material overall is pretty hard. She had 4 quizzes, 1 midterm and 1 final. The course is not curved at all. She offers practice quizzes and practice tests the class before the real thing. Each practice is worth extra credit towards the real thing.
+
+Course: CSE 303 | Year: Senior | Major: SBU
+Genuinely cares about students learning in her class and wants the best for you as a student taking her class
+
+Course: CSE 303 | Year: Junior | Major: CSE
+Although she isn't the best at teaching, I still learned a good amount of stuff. Her lectures are pretty dull, but the material isn't hard at all to understand; she lays a solid foundation for you to study outside of class. She puts up all the assignments and exams from previous years as resources to study from which made everything extremely easy.
+
+Course: CSE 303 | Year: Junior | Major: CSE
+She is an ok professor. Gives TONS of extra credits. Even if you get very low grades on your quizzes the extra credits will raise your overall grade. Her exam/quizzes are very similar to the practice ones. Overall, I would recommend to take the course with her.
+
+Course: CSE 303 | Year: Junior | Major: SBU
+good teacher.  she can be scary but does care a lot about students and teaching.  her class is easy if you keep up with the material.  she also has good slides
+
+Course: CSE 303 | Year: Junior | Major: CSE
+A caring, lovely professor. She is really good at what she is teaching.
+
+Course: CSE 303 | Year: Graduate | Major: CSE
+Extremely organized and easy to understand professor. The course is hard but she made it easy. Her TA i sextremely helpful. In fact the TA teaches even better. But strongly recommend Prof. Anita
+
+Course: CSE 303 | Year: Graduate | Major: CSE
+Anita is a very sweet person, and she means well. I happen to find the material interesting, although the way she teaches could be improved, such as being a bit more direct instead of kind of glossing over things and meandering a bit. Discrete math and automata are very dry subjects, so it takes a bit of coaxing to get the material to make sense
+
+Course: CSE 303 | Year: Senior | Major: CSE
+Took the course in the summer. The material itself isn't that easy but she was so generous with extra credit. Textbook helps a lot because she follows it tightly and she gives practice quizzes/midterms. The drive out to stony was worth it for the A
+
+Course: CSE 303 | Year: Junior | Major: CSE
+Very easy class, lots of extra credit, practice quizes and practice exams are pretty much the material that'll be on the actual tests.
+
+Course: CSE 303 | Year: Junior | Major: CSE
+This is class are the type that if you do the work , u 'll do well. The work is easy if you stay in track an go to class. Remember this is an abstract course. If you miss one litle thing , you might not understand later topics! about 55 % drop the class.
+
+Course: CSE 303 | Year: Junior | Major: SBU
+This is the easiest prof to take 303 with... tons of extra credit so show up and rack up the points.  Exams are cake, quizzes are easy.  I think it was a take home final too, which was totally easy.  Good coverage of material and decent sense of humor
+
+Course: CSE 303 | Year: Junior | Major: SBU
+SHe is a VERY good. ALWAYS quizzes are TRIVIAOL. DONT forget that she is yuor friend. Use the study guide as shown on syllabus and always READ SYLLABUS. ALL IS THERE ! Beautiful professor.
+
+Course: CSE 303 | Year: First-year | Major: CSE
+If you choose to take this class with her make sure you are extremely serious. She grades very hard and theres no curve. Going to lecture helps but she's just an avg professor for this class. I highly recommend her for AI or logic, where she's alot better!
+
+Course: CSE 303 | Year: Senior | Major: CSE
+She is really nice and friendly. Make sure you do all the extra credit and do well on quizzes and are basically based on her slides.

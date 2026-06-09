@@ -1,0 +1,56 @@
+SOURCE_NAME: coursicle_cse303
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/303/
+---
+CSE 303 at SBU - 61 Reviews & Ratings, Fall 2026 professors
+CSE at SBU
+CSE 303 - Introduction to the Theory of Computation
+Professor Reviews
+Anita Wasilewska
+•
+3y
+Senior
+SBU
+She actually just yelled at her tas during the quiz. Terrible Professor
+Leo Bachmair
+•
+3y
+Junior
+CSE
+You can work on homework in groups, lecture is not hard to understand or follow. But don't count on his review tests. The real test is always A LOT more difficult than the review test or homework. You have to really understand the concepts and material to do well in the exams. Otherwise, it feels like you are being tested on things you didn't learn
+Read all 61 reviews of CSE 303
+Recent Professors
+James Finn
+,
+Anita Wasilewska
+,
+Amos Omondi
+,
+Eugene Stark
+,
+Omkant Pandey
+,
+Rezaul Chowdhury
+,
+Chi Wong
+,
+Pramod Ganapathi
+,
+Leo Bachmair
+Recent Semesters
+Fall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024
+Class Size
+30-180
+Credits
+3
+Fall 2026 Sections
+View Fall 2026 sections of CSE 303
+👟 Track which blocks you've walked in NYC
+We made
+WalkNYC
+, an app that helps you walk every block.
+Avg. Professor Rating
+46
+Description
+An introduction to the abstract notions encountered in machine computation. Topics include finite automata, regular expressions, and formal languages, with emphasis on regular and context-free grammars. Questions relating to what can and cannot be done by machines are covered by considering various models of computation, including Turing machines, recursive functions, and universal machines. Not for credit in addition to CSE 350. Enrollment Requirements: SUNY Korea Undergraduate Program Prerequisites: C or higher: CSE 160 or CSE 214; CSE 150 or CSE 213; CSE major.
+Usually Offered
+TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)

@@ -1,0 +1,78 @@
+{
+  "sbu_cs_faculty": {
+    "url": "https://www.cs.stonybrook.edu/people/faculty",
+    "description": "SBU CS faculty page \u2014 names, titles, research areas"
+  },
+  "sbu_cs_courses": {
+    "url": "https://www.cs.stonybrook.edu/students/Undergraduate-Studies/csecourses",
+    "description": "SBU CS undergraduate course list"
+  },
+  "sbu_cs_catalog": {
+    "url": "https://catalog.stonybrook.edu/preview_program.php?catoid=11&poid=1411",
+    "description": "SBU Computer Science BS degree catalog"
+  },
+  "rmp_sbu_cs_list": {
+    "url": "https://www.ratemyprofessors.com/search/professors/971?q=*&did=11",
+    "description": "Rate My Professors \u2014 SBU CS professor list"
+  },
+  "rmp_individual_professors": {
+    "url": "https://www.ratemyprofessors.com/professor/2640556",
+    "description": "Rate My Professors \u2014 individual CSE professor reviews"
+  },
+  "coursicle_professors": {
+    "url": "https://www.coursicle.com/professors/",
+    "description": "Coursicle \u2014 SBU professor reviews"
+  },
+  "coursicle_cse303": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/303/",
+    "description": "Coursicle \u2014 CSE 303 student reviews"
+  },
+  "coursicle_cse306": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/306/",
+    "description": "Coursicle \u2014 CSE 306 student reviews"
+  },
+  "coursicle_cse312": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/312/",
+    "description": "Coursicle \u2014 CSE 312 student reviews"
+  },
+  "coursicle_cse316": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/316/",
+    "description": "Coursicle \u2014 CSE 316 student reviews"
+  },
+  "coursicle_cse320": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/320/",
+    "description": "Coursicle \u2014 CSE 320 student reviews"
+  },
+  "coursicle_cse337": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/337/",
+    "description": "Coursicle \u2014 CSE 337 student reviews"
+  },
+  "coursicle_cse373": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/373/",
+    "description": "Coursicle \u2014 CSE 373 student reviews"
+  },
+  "coursicle_cse416": {
+    "url": "https://www.coursicle.com/stonybrook/courses/CSE/416/",
+    "description": "Coursicle \u2014 CSE 416 student reviews"
+  },
+  "reddit_cse320_pass": {
+    "url": "https://www.reddit.com/r/SBU/comments/1osu0wo/what_does_it_take_to_pass_cse_320",
+    "description": "r/SBU \u2014 what does it take to pass CSE 320"
+  },
+  "reddit_cse316_questions": {
+    "url": "https://www.reddit.com/r/SBU/comments/1emwui9/questions_about_cse_316",
+    "description": "r/SBU \u2014 questions about CSE 316"
+  },
+  "reddit_cse320_cse316": {
+    "url": "https://www.reddit.com/r/SBU/comments/dqgcow/cse320_and_cse_316",
+    "description": "r/SBU \u2014 taking CSE 320 and CSE 316 together"
+  },
+  "reddit_cse_difficulty": {
+    "url": "https://www.reddit.com/r/SBU/comments/ka92z6/cse_major_difficulty/",
+    "description": "r/SBU \u2014 CSE major difficulty discussion"
+  },
+  "reddit_useful_electives": {
+    "url": "https://www.reddit.com/r/SBU/comments/mouep1/what_are_the_most_useful_cse_electives",
+    "description": "r/SBU \u2014 most useful CSE electives"
+  }
+}

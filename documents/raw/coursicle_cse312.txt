@@ -1,0 +1,72 @@
+SOURCE_NAME: coursicle_cse312
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/312/
+---
+CSE 312 at SBU - 28 Reviews & Ratings, Fall 2026 professors
+CSE at SBU
+CSE 312 - Social, Legal, and Ethical Issues in Computing
+Professor Reviews
+Stuart Eisenstadt
+•
+3y
+Sophomore
+CSE
+Interesting, interactive, and fun class. Clearly, the instructor put a lot of effort to make the course awesome.
+Anthony Scarlatos
+•
+3y
+Junior
+CSE
+I asked him if a previous edition of a book was ok, he said absolutely not because we will be doing examples from the book. The book was not used ONCE, not even a single reading chapter. Another time, I went to him after class to ask about the lab, literally tells me to "figure it out yourself and get out." lol seriously?
+Read all 28 reviews of CSE 312
+Recent Professors
+Eleanor Morrison
+,
+William Perez-Porras
+,
+Amos Omondi
+,
+Ralph Marra
+,
+Sondra Charbadze
+,
+Anthony Scarlatos
+,
+Marypat Taveras
+,
+Gino Elia
+,
+Jennifer Carter
+,
+Michael Tashbook
+,
+Ethan Hallerman
+,
+Phillip Nelson
+,
+Stuart Eisenstadt
+,
+Shebuti Rayana
+,
+Christine Cesaria
+Recent Semesters
+Fall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024
+Former Title
+"Legal, Social, and Ethical Issues in Information Systems"
+Class Size
+30-85
+Credits
+3
+Fall 2026 Sections
+View Fall 2026 sections of CSE 312
+👟 Track which blocks you've walked in NYC
+We made
+WalkNYC
+, an app that helps you walk every block.
+Avg. Professor Rating
+67
+Description
+This course deals with the impact of computers on us as individuals and on our society. Rapid changes in computing technology and in our use of that technology have changed the ways we work, play, and interact with other people. These changes have created a flood of new social, legal and ethical issues that demand critical examination. This course is offered as both CSE 312 and ISE 312. Class Notes: Offered as CSE 312 and ISE 312. Enrollment Requirements: Prerequisites: CSE, ISE or DAS major; U3 or U4 standing; one D.E.C. E or SNW course.
+Usually Offered
+MW (1 hour 20 minutes), TuTh (1 hour 20 minutes)
+Attributes
+CER Practice & Respect Critical/Ethical Reasoning ESI Evaluate & Synthesize Researched Information STAS Explore Interconnectedness

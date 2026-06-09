@@ -1,0 +1,23 @@
+SOURCE_NAME: reddit_cse320_pass
+SOURCE_URL: https://www.reddit.com/r/SBU/comments/1osu0wo/what_does_it_take_to_pass_cse_320
+---
+Title: What does it take to pass CSE 320
+
+Post: I was feeling ok about the class so far but we just got a homework back that I felt ok about and my grade was considerably below the average so that was a shock. I’m supposed to graduate this semester so I absolutely have to pass the class. The thing that is making me feel worse is that we have a homework due next week that I already wasn’t feeling good about so now I’m extra scared of the circumstances and been freaking out internally a lot. Usually I’m an average B/B+ in the CSE courses I’ve taken so far.
+Rough numbers for CSE 320 grades are
+HW1: my grade 70, class average 72
+HW2: my grade 97, class average 85
+HW3: my grade 55, class average 80 :(
+Midterm: my grade 67, class average 58
+I emailed the professor and he said the class mean final score right now is 34.1% with standard deviation of 8.2% and my calculated final score right now is 33.7% but keep in mind I said I’m also not feeling good about hw 4 due next week.
+Please I beg of you somebody tell me I’m gonna be ok, I’ve been feeling very bad these last few days and my mental health is in a bad state
+
+I promise you will be okay. I absolutely bombed 2 of the homeworks, like near 0 score, did really well on 1 homework, and did about average the remaining 2, and I passed the class. Just keep chugging and doing your best.
+
+How long ago did you take it, and we are talking about professor Stark right
+
+you are chilling bro the class always has super low averages, hw4 and 5 are harder but remember that means the rest of the class will struggle more as well, so don't worry about that
+
+It’s bothering me though that the average for hw3 was good and I did bad especially when I felt confident about it
+
+This happened to me so many times. I remember taking a midterm for some CSE300 class, felt super good about it, then when I got it back I totally bombed it. We're talking 40 points below the class avg. Still passed and graduated on time. If you're scared you're falling behind, take your homework to office hours and ask them if your solution looks right. Stark sucks but the TAs are pretty knowledgeable usually. You'll be surprised just how much they'll be willing to help. Keep pushing.

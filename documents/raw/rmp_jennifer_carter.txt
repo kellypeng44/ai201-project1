@@ -1,0 +1,12 @@
+SOURCE_NAME: rmp_jennifer_carter
+SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0xMjE1NTY3
+---
+Professor: Jennifer Carter
+Source: Rate My Professors
+
+Course: CSE312 | Quality: 2/5 | Difficulty: 4/5 | Date: 2023-02-08 07:38:59 +0000 UTC
+Reviews were misleading. Note that most of the 5-star reviews are from over 10 years ago. 
+
+As of 2023, Jennifer Carter gives a disproportionate amount of work compared to that of my other CS classes. Be prepared to write a LOT. Lectures are incredibly dull and uninteractive, and attendance is mandatory. 
+
+Would choose another professor.

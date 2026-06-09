@@ -1,0 +1,309 @@
+SOURCE_NAME: sbu_cs_courses
+SOURCE_URL: https://www.cs.stonybrook.edu/students/Undergraduate-Studies/csecourses
+---
+CS courses | Department of Computer Science
+Skip to main content
+CS Courses
+(Subject to change)
+A number next to a checkbox indicates how many course sections are planned.
+Course Name
+Course Title
+Fall 2025
+Spring 2026
+Summer 2026
+Fall 2026
+Spring 2027
+CSE101
+Computer Science Principles
+✔
+✔
+✔
+✔
+CSE102
+Introduction to Web Design and Programming
+CSE103
+Data Science Principles
+✔
+✔
+CSE113
+Foundations of Computer Science I
+✔ 2
+✔ 2
+✔
+✔ 2
+✔ 2
+CSE114
+Introduction to Object-Oriented Programming
+✔ 2
+✔ 2
+✔
+✔ 2
+✔ 2
+CSE150
+Foundations of Computer Science: Honors
+✔
+✔
+CSE160
+Computer Science A: Honors
+✔
+✔
+CSE161
+Lab for Comp Sci A: Honors
+✔
+✔
+CSE213
+Foundations of Computer Science II
+✔
+✔
+✔
+✔ 2
+✔ 2
+CSE214
+Data Structures
+✔ 2
+✔ 2
+✔
+✔ 2
+✔ 2
+CSE215
+Foundations of Computer Science
+CSE216
+Programming Abstractions
+✔
+✔
+CSE220
+System Fundamentals I
+✔ 2
+✔ 2
+✔
+✔ 2
+✔ 2
+CSE260
+Computer Science B: Honors
+✔
+✔
+CSE261
+Laboratory for Computer Science B: Honors
+✔
+✔
+CSE300
+Technical Communications
+✔ 5
+✔ 6
+✔ 5
+✔ 6
+CSE301
+History of Computing
+✔
+CSE303
+Introduction to the Theory of Computation
+✔
+✔
+✔
+CSE304
+Compiler Design
+✔
+CSE305
+Principles of Database Systems
+✔
+✔
+CSE306
+Operating Systems
+✔
+✔
+CSE307
+Principles of Programming Languages
+✔
+✔
+✔ 2
+✔ 2
+CSE310
+Computer Networks
+✔
+✔
+✔
+✔
+✔
+CSE311
+Systems Administration
+✔
+✔
+CSE312
+Legal, Social, and Ethical Issues in Information Systems
+✔ 3
+✔ 3
+✔ 3
+✔ 3
+CSE316
+Fundamentals of Software Development
+✔
+✔
+✔ 2
+✔ 2
+CSE320
+System Fundamentals II
+✔
+✔ 2
+✔ 2
+✔ 2
+CSE323
+Human Computer Interaction
+✔
+✔
+CSE327
+Fundamentals of Computer Vision
+✔
+✔
+CSE328
+Fundamentals of Computer Graphics
+✔
+✔
+CSE331
+Computer Security Fundamentals
+✔
+✔
+CSE332
+Introduction to Visualization
+✔
+CSE333
+User Interface Development
+✔
+✔
+CSE334
+Introduction to Multimedia Systems
+✔
+✔
+✔
+✔
+CSE337
+Scripting Languages
+✔
+✔
+✔
+✔
+CSE346
+Computer Communications
+CSE350
+Theory of Computation: Honors
+✔
+✔
+CSE351
+Introduction to Data Science
+✔
+✔
+✔
+✔
+✔
+CSE352
+Artificial Intelligence
+✔
+✔
+✔
+CSE353
+Machine Learning
+✔
+✔
+CSE354
+Natural Language Processing
+✔
+✔
+✔
+CSE355
+Computational Geometry
+✔ 2
+✔ 2
+CSE356
+Cloud Computing
+✔
+✔
+CSE357
+Statistical Methods for Data Science
+✔
+✔
+CSE360
+Software Security
+✔
+✔
+CSE361
+Web Security
+✔
+✔
+CSE362
+Mobile Security
+CSE363
+Offensive Security
+✔
+✔
+CSE364
+Advanced Multimedia Techniques
+CSE366
+Introduction to Virtual Reality
+CSE371
+Logic
+✔
+✔
+CSE373
+Analysis of Algorithms
+✔
+✔
+✔
+✔
+CSE376
+Advanced System Programming in UNIX/C
+✔
+CSE377
+Introduction to Medical Imaging
+✔
+✔
+CSE378
+Introduction to Robotics
+CSE380
+2D Game Programming
+✔
+✔
+CSE381
+3D Game Programming
+✔
+✔
+CSE385
+Analysis of Algorithms: Honors
+✔
+✔
+CSE390-394
+Special Topics in Computer Science
+CSE416
+Software Engineering
+✔ 3
+✔ 3
+✔ 3
+✔ 3
+CSE475
+Undergraduate Teaching Practicum
+✔
+✔
+✔
+✔
+CSE487
+Research in Computer Science
+✔
+✔
+✔
+✔
+CSE488
+Internship in Computer Science
+✔
+✔
+✔
+✔
+CSE495
+Senior Honors Research Project I
+✔
+✔
+✔
+✔
+CSE496
+Senior Honors Research Project II
+✔
+✔
+✔
+✔

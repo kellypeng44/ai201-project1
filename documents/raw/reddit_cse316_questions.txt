@@ -1,0 +1,12 @@
+SOURCE_NAME: reddit_cse316_questions
+SOURCE_URL: https://www.reddit.com/r/SBU/comments/1emwui9/questions_about_cse_316
+---
+Title: Questions about CSE 316
+
+Post: Just wondering what tech stack is used for the class and how the class will look like. Also want to know how well I can do given that I've worked on several full-stack web apps (I've used React,Next,Node.js, firebase). ty! 🫡
+
+React, node, mongodb. You should be fine since you said you’ve used them
+
+Join the CSE discord. I’m bamboozled that so many cs majors don’t know about it. This is a question for that discord. To answer your question, if you actually know everything you listed then CSE 316 will be a breeze for the most part. Just don’t procrastinate.
+
+do you have the invite link?

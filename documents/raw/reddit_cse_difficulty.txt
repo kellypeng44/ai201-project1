@@ -1,0 +1,30 @@
+SOURCE_NAME: reddit_cse_difficulty
+SOURCE_URL: https://www.reddit.com/r/SBU/comments/ka92z6/cse_major_difficulty/
+---
+Title: CSE Major Difficulty
+
+Post: Hi, I’m an AOI CSE major and I was just wondering how hard the CSE upper level division classes are after 214 and 215? Are 214 and 215 much lighter compared to the upper divisions? They were pretty hard for me so it’s hard to imagine if it gets much worse😬 Also, how hard is it to maintain a good gpa (3.0+)?
+
+Yikes, could I ask what major are you now?
+
+Good for you man. We never really hear from people who switch out so it’s kinda refreshing. It sounds like people need strong willpower to do well in CSE. Not sure if I’m that motivated to get through it. Yeah, I’m probably going to go ISE since I’m not too passionate about software engineering, but I still like working with computers. Thanks
+
+I’m scared now
+
+I really wouldn’t listen to this person. You’re not going to have to trade your life away for a 3.0+ I got B/B+ in a bunch of early CSE classes and ended up with a good GPA and was still able to have a normal college experience. Don’t fret. It’s not a cakewalk, but you’re not going to have to “make a deal with the devil” or anything lol
+
+Coming from an AOI position myself back in 2016, the upper-division course difficulty varies. Courses like CSE 320 and 306 (Systems Fundamentals II and Operating Systems) are on the harder end of the spectrum. CSE 300 and 312 are non-technical courses and are usually very easy. Some courses depend on the professor for difficulty, and others are just straight-up difficult. For example, CSE 373 (algorithms) is a tough course on its own, but the professor determines if it's understandable or not at all. CSE 216 and 220 are a ball-busting combo (and on their own as well), though I haven't heard as much about 316 personally. ​ As for maintaining a 3.0+ gpa, it depends on the other courses you take in tandem with it. For example, unless you have excellent time management skills, 216+220 in one semester is a hard-enough course combo without anything else being placed on top of it, and I suggest an SBC/GPA boosting course or two in tandem with it. ​ 214+215 are considerably lighter than some upper-division courses, and sometimes not, per my earlier point. ​ Feel free to reach out if you need help with anything CS related. I was in your spot and grinded through to get into the major (heck, I took 114 twice after missing the minimum GPA by a fraction of a decimal back in 2017), and now I'm a grad student. Best of luck!
+
+People normally take 216+220 for sophmore fall right? Is there any cons to splitting it up to 216 fall and 220 spring or something or will that slow your course down? I am thinking about applying to internships my sophmore fall for the summer. Will it be smarter to take easier course load to focus on interview prep?
+
+As far as I could tell, there aren't really too many cons. It boils down to how you schedule your classes so that you have a healthy balance of light and heavy courses. If you're aiming for an internship (particularly at FAANG companies or other spots with intense interviews), then definitely focus on interview prep, IMO. If you think you can balance it all, then that's totally fine. I just had enough TA-ing experience with 216 to know it's an annoying course to take alongside 220 at the time. Not sure if it's changed since then because I've been away from SBU for almost 2 years now :P
+
+Yeah I alot of people I asked in the sbu cs discord server they said every one does the 216+220 combo and its not that bad but all I see on reddit is that it is a very tough. How would you compare 216 and 220 to the classes im currently taking? which is AMS210 , Cse214, cse215. Like would you say just 220 or 216's work alone is more than all 3 class combined or something like that?  People are mostly saying that doing 220+216 sophmore fall will help with future schedule planning or something but I am not too sure what they mean.
+
+So fun fact: I never took 216, though I TA-ed it enough times to understand the struggle some students have with it alongside courses like 220 (mostly because of a certain prof's approach to teaching and homework assignments for the course-- just see the SBU "Classie" reviews for it and you'll see what I mean). It's harder than 214+215 in my opinion, though since I had an easier AMS 210 prof way back in the day, it becomes a "gauge it on your own work ethic" kind of deal. Again, look at the web-page as it stands, go through the slides and HW's and see if you could see yourself taking it alongside CSE 220. The future scheduling aspect is that 216 + 220 are the gatekeepers to nearly all of the upper-division courses in the CS department. Getting them done together is easier in terms of scheduling, but arguably more difficult. I suggest you take light-weight courses like other SBC's if you can to pad the semester if you do them both at the same time.
+
+Use plenty of lube. It gets easier once you stop worrying about your GPA.
+
+I have a few scholarships that require me to keep a 3.0 so I’m genuinely curious how hard it is to maintain it in the CSE major
+
+If u work hard you’ll easily maintain above 3.0

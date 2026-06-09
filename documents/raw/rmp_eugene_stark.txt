@@ -1,0 +1,178 @@
+SOURCE_NAME: rmp_eugene_stark
+SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci05MjY1Nzc=
+---
+Professor: Eugene Stark
+Source: Rate My Professors
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 4/5 | Date: 2025-12-16 05:22:36 +0000 UTC
+HWs can be difficult but if you're interested in the topic, it is definitely worth taking. Learned the most from this professor when I was at SBU.
+
+Course: CSE320 | Quality: 3/5 | Difficulty: 4/5 | Date: 2025-07-05 21:35:42 +0000 UTC
+The class itself isn't too hard. Just start the homeworks early. The exam are easy to get average on without studying, your main focus should be doing above average on homeworks
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2025-05-18 23:18:13 +0000 UTC
+Start homeworks early or you will fail this class. This class teaches accountability more than anything. If you treat it like an intro course, you will suffer.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2024-05-01 19:03:30 +0000 UTC
+BASED professor.
+
+Course: CSE320 | Quality: 2/5 | Difficulty: 5/5 | Date: 2024-04-27 02:37:15 +0000 UTC
+Stark is the best professor if you're taking it for sheer academic enthusiasm. If you're minding your grades, he's the devil. Don't stop reading the textbook until you understand EVERYTHING completely. Remember that every assignment he gives must start AT LEAST 14 days beforehand and spend AT LEAST 40 hours. Otherwise, you will see the hell.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2023-11-30 02:48:24 +0000 UTC
+Stark is indeed a necessary evil.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2023-08-31 16:26:18 +0000 UTC
+He's a necessary evil in this major.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 2/5 | Date: 2023-05-29 05:43:08 +0000 UTC
+Bes class you will take, very enlightening unlike 303.
+
+Course: CSE320 | Quality: 3/5 | Difficulty: 5/5 | Date: 2023-05-15 20:37:18 +0000 UTC
+An evil professor!
+
+Homeworks are extremely difficult and take multiple days to complete. However, they are well thought out and give you a deep understanding of the topic.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2022-12-07 22:08:41 +0000 UTC
+Pretty charismatic guy, and definitely knows what he's talking about. The class is definitely the most difficult one I've taken so far, but you also learn a lot. The people that don't finish the homework need to learn to start early. They're pretty manageable and reasonable if you don't cram it all into a few days.
+
+Course: CSE303 | Quality: 1/5 | Difficulty: 5/5 | Date: 2022-05-30 23:20:35 +0000 UTC
+While ok in 320, Stark is not fit for a theory class. He will spend 30 minutes on a slide that could be condensed to 2 easy sentences. If stark is teaching outside of 320, run away and don't touch it. You will be teaching yourself this class. All his material will make little to no sense and there are a ton of better recourses outside of the class.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2022-05-30 23:15:46 +0000 UTC
+While the class itself is difficult (mainly due to homework) Stark isn't a bad professor in it. He will answer most answers quickly (sometimes pretty petty). I wouldn't take the class again simply due to difficulty but it isn't a horrible class. Understand you won't be able to finish the homework in a couple hours and prepare at least a week on it.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2021-12-12 15:55:24 +0000 UTC
+Professor Stark is extremely knowledgeable of the material and I found the lectures interesting. The assignments are long and tedious but help you understand the topics covered in class. Some of his piazza answers can seem condescending but in person, he is usually pretty open to questions and is very helpful. One of the better professors at SBU.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2021-09-22 20:34:21 +0000 UTC
+Just don't. You'll thank me later.
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 5/5 | Date: 2021-05-23 01:26:21 +0000 UTC
+Stark is a great prof and teaches operating systems well. Really hard class, but you end up learning so much. It's definitely a good class to take as an elective, but just make sure it's your only hard class because the projects are extremely time consuming. The curve is massive even though the averages for the assignments and exams tend to be low.
+
+Course: CSE320 | Quality: 3/5 | Difficulty: 5/5 | Date: 2021-02-03 20:42:54 +0000 UTC
+Okay teacher, but ludicrous hw (badly written wall of text), I never fully completed a single one. Hard to follow lectures. Low stakes tests. Grading: 10-20% on tests, 60-70% on hw. Pay attention and ask until you FULLY understand. Textbook was very useful (tho not required). I feel I could've learned so much, but instead focused on doing the hw.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2021-01-08 22:19:47 +0000 UTC
+Stark is the best professor in the CS department at Stony. He is active on piazza if you are really stuck. This is one of the few cs courses where you will learn a lot. His homeworks are extremely long, but as long as you follow the instructions and START EARLY, you should get a decent grade. Don't overload yourself with courses when you take him.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2020-12-23 16:45:37 +0000 UTC
+He's willing to spend time answering students' questions on piazza. His homework is hard and definitely challenging but he intentionally wants you to learn those stuff on your own. His exams are definitely reasonable if you already understand C well enough. There is no certain way to review for his exam, just plain knowledge test. Good luck!
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 4/5 | Date: 2020-05-16 06:38:58 +0000 UTC
+I learned so much from Prof. Stark's class. He is extremely knowledgable about C and Unix and explains things well. The homeworks were difficult and challenged me more than any other CS class has before; I truly feel that I am a better programmer after taking this class.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2020-05-10 21:21:57 +0000 UTC
+I only took the first midterm because of corona. 40 questions general stuff, 10 on the homework. I didn't do much of the first hw but got a decent grade. You have to study online C sites to do well. Also, know what void*(zero) is. The homework is hard. Professor is extremely nice and smart. Sometimes his replies on piazza are sarcastic but funny.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2020-05-10 21:13:22 +0000 UTC
+The reason for his low rating is because of the difficulty of his class. However, this professor is really knowledgeable. It seems like he knows the answer to whatever you ask him. I went to his office hours once and he spent a great amount of time and care to answer my question thoroughly. He is surprisingly really nice and helpful if you go to OH
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 5/5 | Date: 2020-04-24 22:18:00 +0000 UTC
+I took both 320 and 306 with Stark, and they were both a challenge. Yes, his tests are extremely hard to study for, but you're not expected to get every question right. He knows the material he's teaching and is very passionate about it, so if you have any interest in systems I advise you to take these courses with him.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 4/5 | Date: 2019-12-30 22:21:59 +0000 UTC
+Lectures are good, he is always willing to explain every questions. Project workload is heavy. However, he always answers project questions quickly on Piazza. Even though many dislike his class (it is a bit dull), the lecture he gives would be very helpful for the ones who wants to build back-end systems, from a former software engineer's view.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 4/5 | Date: 2019-12-19 01:43:10 +0000 UTC
+One of the best CS professors in SBU. He will inspire students to actually learn material, not just memorize. Homeworks are some kind of challenging, however, if you read the book before starting homework, you will do great. And material covered is really interesting.
+
+Course: CSE320 | Quality: 2/5 | Difficulty: 5/5 | Date: 2019-12-08 07:24:13 +0000 UTC
+I'm very serious: I have kept my gpa above 3.50 for the entire my college life. This is the moment where my gpa goes down below 3.5. The thing is this. I do very well better than other students when the coursework is pretty doable and well-instructed (in terms of projects/exams), but when it is not, I always fail. Giving too hard tasks is bad.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2019-11-22 18:58:50 +0000 UTC
+Useless useless useless useless. Absolute useless. I regret ever taking this class. The fact that Stark is teaching should have already been a red flag. Never take CSE 306. EVER.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 5/5 | Date: 2019-05-15 00:29:39 +0000 UTC
+CSE320 is hard. But Stark in general is a good professor. He cares about students.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2019-05-14 23:46:52 +0000 UTC
+Class is hard as hell, but it's what makes our degree worth it. Stark's lectures are surprisingly good, it's unfortunate that so few people show up. He can be somewhat sarcastic on piazza, which he should probably work on. But this attitude has encouraged me to read closer and think for myself, which has made me a sharper student.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 4/5 | Date: 2019-05-14 23:32:50 +0000 UTC
+Honestly, despite all the negativity Stark is a great professor. Come to his lectures, give the guy a shot, work on the homework, and youll do fine. Its a hard class but you get a better application for the material afterwards.
+
+Course: CSE320 | Quality: 4/5 | Difficulty: 5/5 | Date: 2019-05-09 16:51:43 +0000 UTC
+The class was difficult but it's supposed to be. He is helpful during office hours but come prepared. I think he gets a bad rep sometimes because people don't really give him a chance but he seems kind to me. Some professors are easy others are more difficult, he's just more difficult. I recommend him if you want a challenge. I'm average or below.
+
+Course: CSE320 | Quality: 1/5 | Difficulty: 5/5 | Date: 2018-12-13 14:45:59 +0000 UTC
+This is my own experience with this professor. This is the first ever professor that will TAKE OFF YOUR POINTS if you consult him for HW issue. In his class, working hard does not give you what you deserve. He doesn't care if you understand the idea. He cares about whether you can replicate his code. It's my first time seeing such a professor.
+
+Course: CSE320 | Quality: 2/5 | Difficulty: 5/5 | Date: 2018-06-26 00:15:01 +0000 UTC
+The thing about Stark is he really knows C and tries to sound enthusiastic about it. However, sometimes his answers aren't exactly coherent, and lecture was just a negative. Homeworks are long, but doable. Make sure you read the textbook and do practice exercises for his tests, you'll really need it.
+
+Course: CSE320 | Quality: 5/5 | Difficulty: 4/5 | Date: 2017-12-13 19:08:44 +0000 UTC
+Best professor to take 320 with. He makes you work for what you want. His tests are straight up impossible because he does not spoon feed you. He expects you to take interest and initiative and learn based on the textbook. Tests seem unfair but they actually test knowledge you have learned from class as well as information you learn by your self.
+
+Course: CSE320 | Quality: 2/5 | Difficulty: 5/5 | Date: 2017-12-13 19:07:06 +0000 UTC
+Stark is a nice guy. He might have created multiple choice tests, but the questions asked about stuff that weren't even taught in class nor in the textbook. The rest of the grade came from homeworks and although they were hard and took many hours to complete, they were grade boosters in comparison to the tests.
+
+Course: CSE320 | Quality: 1/5 | Difficulty: 5/5 | Date: 2017-11-09 11:52:22 +0000 UTC
+His programming exams are all multiple choice. He does not answer ANY questions during the exam and his lectures are very boring. Less then 15 people show up, during the exam there is over 90+ students. His exams have VERY specific questions related to programming, things you wouldn't know unless you tried them out.
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 5/5 | Date: 2014-01-03 01:24:16 +0000 UTC
+If you wanna get a bad grade and ruin your GPA go for it. He doesn't care about the students grade and their future at all.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2013-12-24 15:30:17 +0000 UTC
+His course will be tough. you need to spend most of the time in semester to do his homework. Don't expect a good grade. And beware while mailing him, he will reply you very rude.
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 4/5 | Date: 2013-12-23 22:51:13 +0000 UTC
+One of the rudest and worst professor ever. Don't even dream of taking a course under him. He expects you to know everything on your own and homework is incredibly tough. Spends most of the time reading the slides. You cannot learn much from nachos. He is such a nightmare. He never minds giving you a bad grade
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 4/5 | Date: 2013-11-25 17:42:26 +0000 UTC
+Also took CSE 160 and 260 with him. Extremely patient and accessible, particularly in office hours (go at least once per HW!). A bit verbose and old-fashioned, but knowledgeable. May come across as harsh in grade feedback, and his courses are indeed tough, but he's not an a--hole. Recommended, but not with more than one other project-heavy course.
+
+Course: CSE306 | Quality: 3/5 | Difficulty: 3/5 | Date: 2012-05-22 20:06:12 +0000 UTC
+This is the 4th time I've had him... and as usual he was very dry but clearly understood what he was talking about. NACHOS was definitely useful for getting to see the stuff in action. Final was a bit tough but still fair. My only wish is that there was also a midterm. A 40% final w/ no prior testing is hard to prepare for.
+
+Course: CSE306 | Quality: 3/5 | Difficulty: 5/5 | Date: 2011-12-17 16:02:24 +0000 UTC
+No midterms, no quizzes, closed book final that is worth 40% of the grade, with no practice or any type of sample questions whatsoever...Enough said?
+
+Course: CSE306 | Quality: 4/5 | Difficulty: 4/5 | Date: 2011-11-22 01:05:20 +0000 UTC
+People who don't like him are stupid, or expect to be spoon fed. Stark makes you work for your grade. This OS class, though dry and boring lectures, awesome to program with.
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 5/5 | Date: 2010-12-14 22:00:54 +0000 UTC
+Ok Hands down, HE SUCKS !
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 5/5 | Date: 2010-01-13 15:14:34 +0000 UTC
+Avoid him if you can. End up learning NACHOS instead of a real OS. Spending alot of time figure out how NACHOS works for every HW. Easy lectures, but hard and long HW decription, and got nth out of reading it. At the end, felt like learning nth out of his HW and class besides useless NACHOS in the real world + long final.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2009-12-23 20:13:07 +0000 UTC
+Don't take classes with him. Worst professor ever in my life. The amount of work that he gives, seems like he expect his class is your only class, and he is not helpful at all.That is 60% of your final grade. His lecture was easy to understand, but final(60 short answer+essay like part 2) is almost impossible finish. That's the rest of final grade.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2009-10-08 07:52:19 +0000 UTC
+The worst professor you will ever be in the same room with. Nothing he does is at all helpful for people who haven't already thoroughly researched the subject before entering the class.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2009-01-05 23:50:01 +0000 UTC
+I was interested in this class until Stark started talking.He is rude, and obviously does NOT want to be there.For those comments below mentioning him helping the students...i personally think they are lies... either that or he was really secretive about selecting favorites.Course material was bland and assignments were just ridiculous.The work may
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2008-12-30 23:29:27 +0000 UTC
+I THINK STARK HIMSELF CRAFTED THE PREVIOUS RATING! LMAO!!! This guy was anything but helpful, he was totally unclear, intolerant, and arrogant.  Avoid at all costs.
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 4/5 | Date: 2008-12-30 20:38:19 +0000 UTC
+Willing to help to the point of examining your code in the middle of the night. Very knowledgable (can cause him to get sidetracked in class). Still a no nonsense professor. Expect no handouts. Assignments are challenging, so find a good partner from the beginning. Good to know a little C and UNIX beforehand, but i didn't and figured things out.
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2008-12-22 14:24:10 +0000 UTC
+I think everyone just gave up in this class. Assignments are impossible and you spend more time setting up then actually learning. Nobody goes to class because there is no point (lec/hw online and 1 test, and he just reads slides). He is unapproachable and generally not available.WORST IN DEPARTMENT!
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2008-12-21 03:06:38 +0000 UTC
+AVOID at all COSTS!!! This guy single handedly ruined my gpa. Not helpful, and his assignments are hard to the extent of being impossible to do. AVOID
+
+Course: CSE306 | Quality: 1/5 | Difficulty: 5/5 | Date: 2008-11-13 14:15:15 +0000 UTC
+Assignments are ridiculously hard and he's not helpful at all. Rejects all emails or just flat out ignores them and he allows his TA to set his office hours during class time. He is nice enough to post lecture notes... 3 weeks after the lecture so the material is still fresh in your head!. Avoid at all cost!
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 5/5 | Date: 2008-11-02 17:31:06 +0000 UTC
+I have spent days and nights tracing his code and re-reading his directions. He gets confused in his own material,  code demonstrations never go as he predicted. Worst of the worst, avoid his class.
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 4/5 | Date: 2008-10-31 13:18:20 +0000 UTC
+Stark is very thorough with all his assignments and grading, but he is robotic. He tries hard to make sure we learn the right things, but he doesn't try to be an interesting teacher - which turns most people off anyway. He's not so easy and gets carried away with topics and/or expects people to know UNIX.
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 5/5 | Date: 2008-05-18 08:59:20 +0000 UTC
+Rude is an understatement.  Screams and shouts at people for petty things.
+
+Course: CSE306 | Quality: 5/5 | Difficulty: 4/5 | Date: 2008-04-14 22:49:35 +0000 UTC
+No Comments
+
+Course: CSE306 | Quality: 2/5 | Difficulty: 5/5 | Date: 2007-08-12 12:34:46 +0000 UTC
+This guy is rude. He's also unfair, his lectures suck, and I regret taking him for this class.

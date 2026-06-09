@@ -1,0 +1,52 @@
+SOURCE_NAME: coursicle_cse337
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/337/
+---
+CSE 337 at SBU - 41 Reviews & Ratings, Fall 2026 professors
+CSE at SBU
+CSE 337 - Scripting Languages
+Professor Reviews
+Yanni Liu
+•
+3y
+Junior
+CSE
+Yanni Lui is one of my favorite professors in the CS department. She's a great lecturer and genuinely cares about the success of her students. The class is mainly assignments (python, perl, and some sys admin) and quizzes. One final exam and theres lots of extra credit. I learned a lot about scripting and highly recommend it.
+Joydeep Mitra
+•
+3y
+Junior
+CSE
+Worst Professor I ever had in my life. This guy thinks that were all some kind of machines and we can magically interpret difficult code. Made this class unnecessarily hard. Impossible quizzes and tests along with extremely lengthy and unclear assignments. So just dont do it.
+Read all 41 reviews of CSE 337
+Recent Professors
+Abid Malik
+,
+Tony Mione
+,
+Ritwik Banerjee
+,
+Christopher Kane
+,
+Joydeep Mitra
+,
+Michael Tashbook
+,
+Ali Aydin
+Recent Semesters
+Fall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024
+Class Size
+20-200
+Credits
+3
+Fall 2026 Sections
+View Fall 2026 sections of CSE 337
+👟 Track which blocks you've walked in NYC
+We made
+WalkNYC
+, an app that helps you walk every block.
+Avg. Professor Rating
+62
+Description
+Scripting languages are widely used in the IT industry. Programming with scripting languages, also known as scripting, has several advantages compared to programming with other types of languages in that scripts facilitate rapid program development; can automate high-level jobs or tasks very effectively; and can be used to compose various software components, even binaries, into more complex and powerful applications. This course introduces the principles of scripting, covers one or two selected scripting languages in depth, and illustrates the advanced use of scripting by extensive case studies in application areas such as system administration, web application development, graphical user interface development, and text processing. Class Notes: Offered as CSE 337 and ISE 337. Enrollment Requirements: Prerequisites: CSE 214 or CSE 260; CSE or ISE or DAS major; U3 or U4 standing.
+Usually Offered
+MW (1 hour 20 minutes), TuTh (1 hour 20 minutes)

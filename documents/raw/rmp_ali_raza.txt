@@ -1,0 +1,8 @@
+SOURCE_NAME: rmp_ali_raza
+SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0yNjcwNjkz
+---
+Professor: Ali Raza
+Source: Rate My Professors
+
+Course: CSE312 | Quality: 1/5 | Difficulty: 3/5 | Date: 2022-07-06 22:17:05 +0000 UTC
+HE SHOULD ATTEND CLASS ON TIME!

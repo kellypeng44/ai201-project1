@@ -1,0 +1,8 @@
+SOURCE_NAME: rmp_dominik_kempa
+SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0yOTcxNDA4
+---
+Professor: Dominik Kempa
+Source: Rate My Professors
+
+Course: CSE373 | Quality: 1/5 | Difficulty: 5/5 | Date: 2024-02-15 22:06:59 +0000 UTC
+what.

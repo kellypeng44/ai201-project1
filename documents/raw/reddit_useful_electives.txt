@@ -1,0 +1,17 @@
+SOURCE_NAME: reddit_useful_electives
+SOURCE_URL: https://www.reddit.com/r/SBU/comments/mouep1/what_are_the_most_useful_cse_electives
+---
+Title: What are the most useful CSE electives
+
+Post: Out of curiosity, what are the most useful and helpful cse electives that can translate to actual jobs/ real life experience
+I know 356 is really good but it’s not being thought next semester
+
+CSE 331 is useful to take since the core CS classes here don't go into much security. It's a new prof next semester, but the class is generally considered pretty light compared to other CS classes, and the material it teaches is good general knowledge to have for any tech job. CSE 332 is good if you want to go into data visualization, maybe even data science. It's probably useful for anything frontend-related in general. In previous semesters it used JavaScript with d3.js, and the prof is apparently pretty good. CSE 306 is really good to take especially if you want to get into systems programming or liked 320, but also just for general software dev experience. That class basically revolves around a course project (xv6 for Stark, OSP2 for Kifer) where you make various modifications to an OS. It's really good practice for working with a large, existing codebase; most classes here have you code from scratch, but in the real world more you'll probably be working with an existing codebase more often than not. Avoid CSE 333, 334, 337, and 371 if you are looking for classes that  teach stuff relevant to actual jobs. They're good if you want an easy A though. CSE 353/355/357 are also really good theory classes to take, but aren't necessarily as applicable to actual jobs as the other classes are.
+
+Entirely dependent on what you're interested in.
+
+Not too sure tbh but it’s probably either web development or data analysis
+
+CSE 305 has been the one I actually use the most (databases). The rest is really just what you're interested in and what type of software engineering job you want
+
+what do you mean by use the most? Is it just sql? I tried looking into the class alot of people say its old outdated maybe even useless cuz sql can be self taught. Can you share your experiences?

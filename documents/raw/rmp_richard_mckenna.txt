@@ -1,0 +1,50 @@
+SOURCE_NAME: rmp_richard_mckenna
+SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0yNjY4OTM=
+---
+Professor: Richard Mckenna
+Source: Rate My Professors
+
+Course: CSE316 | Quality: 1/5 | Difficulty: 5/5 | Date: 2025-12-22 05:05:31 +0000 UTC
+Exams contain random unlisted trivia questions and minimal preparation material is provided. Appointments are also enforced for each homework grading, and lectures are mostly yap sessions. Would avoid this professor by all costs.
+
+Course: CSE316 | Quality: 1/5 | Difficulty: 5/5 | Date: 2025-12-11 02:51:43 +0000 UTC
+This class was a disaster from day one. The professor somehow managed to make every topic more confusing than the last, then acted shocked when the entire class struggled. If you value your sanity, avoid at all costs. I walked out of this class feeling dumber than when I walked in.
+
+Course: CSE316 | Quality: 1/5 | Difficulty: 5/5 | Date: 2025-12-09 22:21:10 +0000 UTC
+Very condescending and have superiority complex when teaching course materials and grading work. Does not show proper abilities to reason through engineering problems in an applied course. Consistently fails in his lecturing abilities and the only blame is on the students.
+
+Course: CSE416 | Quality: 2/5 | Difficulty: 4/5 | Date: 2024-11-12 00:02:28 +0000 UTC
+McKenna's lectures were often disorganized and unhelpful. He seems to lack understanding of the technologies used in the course project, leaving students on their own. However, the project itself is interesting. Unstuck study was a lifesaver for preparing for the exams.
+
+Course: CSE416 | Quality: 2/5 | Difficulty: 3/5 | Date: 2023-12-23 04:37:34 +0000 UTC
+"YOU CHOSE THIS MAJOR", is what I would hear in the midst of lecture as McKenna was spiraling down another one of his rants. He would spend half the lecture on a single slide with three bullet points. He got so petty, he decided to make mcq midterm short response based off of things he mentioned in class that were not on the slides.
+
+Course: CSE316 | Quality: 1/5 | Difficulty: 3/5 | Date: 2023-11-30 02:45:43 +0000 UTC
+This man is very self centered (he expects you to listen to his every fun fact and trivia) and disregards student emails, questions and concerns. )There was no learning involved, just brute force debugging. I would recommend all 316 professors and all other courses than take a class with this man. I hope we get someone like Mitra back for 316.
+
+Course: CSE316 | Quality: 2/5 | Difficulty: 4/5 | Date: 2023-01-10 05:45:35 +0000 UTC
+This class requires a ton of self-study. I attended every lecture but did not learn much. His slides do not include important notes and tests are full of trivial questions.
+
+Course: CSE316 | Quality: 1/5 | Difficulty: 5/5 | Date: 2022-12-16 04:06:49 +0000 UTC
+If you emailed Richard for 2 points back on a project because the thing he asked for was not in your project specifications, and you had a terminal illness, he would respond to your email 3 weeks after your funeral to deny your request. If Richard ever became accessible through email or piazza, it would be proof that god is real.
+
+Course: CSE416 | Quality: 1/5 | Difficulty: 5/5 | Date: 2021-12-26 02:01:36 +0000 UTC
+Professor McKenna does a very poor job of explaining requirements, and what he expects out of students. In addition to this, if you are missing something that he did not mention, he will still take points off your assignment for not having it. Being able to read minds was not listed as a prerequisite. Also his exams are just trivia of lectures.
+
+Course: CSE316 | Quality: 1/5 | Difficulty: 4/5 | Date: 2021-12-09 04:56:15 +0000 UTC
+Lectures are useless & there is no connection between the programming & non-programming parts of the class. We just have to memorize theory to pass the tests. It would be nice if he started from HTML/CSS; starting with JS had a learning curve. And please give outside sources so we can learn ourselves.
+
+Course: CSE416 | Quality: 1/5 | Difficulty: 5/5 | Date: 2021-04-30 14:54:56 +0000 UTC
+Professor is arbitrary, unclear, and doesn't care about (or understand) the workload. He hides behind all criticism by saying it's a senior project class and that he expects workplace or professional quality, but he has to realize that it is still a one semester 3 credit class.
+
+Course: CSE416 | Quality: 2/5 | Difficulty: 4/5 | Date: 2020-12-29 21:55:51 +0000 UTC
+Useless lectures. They have nothing to do with the project, only the midterm. I skipped nearly every class and then binged the lectures the night before the midterm for about 6 hours on 2x speed and got a good score on the midterm. The project is cool but the prof doesn't seem to know the tech/languages behind it well you're sort of on your own
+
+Course: CSE416 | Quality: 1/5 | Difficulty: 5/5 | Date: 2020-12-15 23:15:18 +0000 UTC
+the professor expected us to use and develop with technologies that him and his TA have very little information about. This made it very difficult to proceed every time we were stuck. Furthermore, every time we asked a question, he would answer the question in the most vague way possible, which made us more confused than we initially were.
+
+Course: CSE316 | Quality: 5/5 | Difficulty: 4/5 | Date: 2020-05-28 16:28:57 +0000 UTC
+I have one semester left to graduate, Prof. McKenna is one the best professors I've ever had at SBU. He wants every one of his students to do well. The class is NOT easy but there is more than enough help available (I don't suggest taking during a pandemic, makes getting help harder lol). Nothing but positive things to say about him!!!
+
+Course: CSE316 | Quality: 2/5 | Difficulty: 3/5 | Date: 2020-01-12 19:27:22 +0000 UTC
+His lectures are boring: he briefly describes technologies without proper explanation how/why/where to use them; lot of his personal stories. Class was all about self learning and most important topics were covered over briefly at the end of semester. It is first semester when this course offered, hope it will be reorganized.

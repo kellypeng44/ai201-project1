@@ -1,0 +1,21 @@
+SOURCE_NAME: reddit_cse320_cse316
+SOURCE_URL: https://www.reddit.com/r/SBU/comments/dqgcow/cse320_and_cse_316
+---
+Title: CSE320 and CSE 316
+
+Post: Hi, I'm planning to take CSE320 and CSE316 for the next semester. I do know that 320 is quite time consuming course.
+So, I'm wondering taking both classes is doable in one semester.
+Or would you recommend me to take 320 and cse310 together?
+Thank you for your reply.
+
+320 + 316 is a mistake. Don't even consider it
+
+They're being offered at the same time, you can't do it.
+
+I'm taking both this semester and my only advice is do it if you feel comfortable with the material being taught and you are someone who starts assignments early. Both classes have rlly long hws and you will end up spending multiple days on them. I made sure to take 3 very easy classes with them with minimal work and so far it hasn't been that bad.
+
+Totally doable. Heck, I'm taking CSE 320 and CSE 356 as well as CSE 331(whose big project is due in one month). I still have free time leftover for sleep. Just make sure you sharpen up your C knowledge and use an IDE like clion. It makes everything so much easier. Debugging pointers and break points is so much a breeze on clion.
+
+310 is easy, you should be able to take it with 320
+
+I wouldn't personally because CSE320 is just a whole different level of pain and pairing it with CSE316 along with other classes might just stress you out all semester. I think 320 is definitely doable with 310 or just any class that is not very time consuming or difficult. However, it really depends on you so if you feel comfortable about the material or about the amount of work you would need to do then you can take 320 and 316 together.

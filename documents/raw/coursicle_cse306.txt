@@ -1,0 +1,50 @@
+SOURCE_NAME: coursicle_cse306
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/306/
+---
+CSE 306 at SBU - 41 Reviews & Ratings, Fall 2026 professors
+CSE at SBU
+CSE 306 - Operating Systems
+Professor Reviews
+Eugene Stark
+•
+3y
+Junior
+CSE
+If you wanna get a bad grade and ruin your GPA go for it. He doesn't care about the students grade and their future at all.
+Donald Porter
+•
+3y
+Junior
+CSE
+I worked my guts off for this class because I loved the material. Probably the most interesting and relevant CS course. Uses knowledge from every other class. Chill grader. Failed midterm, passed final. A-. Super rewarding class. Labs will really push your brains out. Porter explained material really well, and lectures were online. Favorite class.
+Read all 41 reviews of CSE 306
+Recent Professors
+Dongyoon Lee
+,
+Youngmin Kwon
+,
+Eugene Stark
+,
+Michael Kifer
+,
+Nima Honarmand
+Recent Semesters
+Spring 2026, Fall 2025, Spring 2024, Fall 2023, Spring 2023
+Class Size
+25-80
+Credits
+3
+Fall 2026 Sections
+View Fall 2026 sections of CSE 306
+👟 Track which blocks you've walked in NYC
+We made
+WalkNYC
+, an app that helps you walk every block.
+Avg. Professor Rating
+51
+Description
+Students are introduced to the structure of modern operating systems. Topics include virtual memory, resource allocation strategies, concurrency, and protection. The design and implementation of a simple operating system are performed. This course focuses on teaching the skills required to design and build modules of an operating system kernel. It covers key algorithms and architectures. A companion course, CSE 320, teaches complementary skills from the application programmer's point of view. Enrollment Requirements: Prerequisites: C or higher: CSE 320 or ESE 280; CSE Major or ECE major.
+Usually Offered
+TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)
+Attributes
+ESI_PART Evaluate & Synthesize Researched Info EXP+_PART Experiential Learning SBS+_PART Social and Behavioral Sciences STEM+_PART Science, Technology, Engineering & Math

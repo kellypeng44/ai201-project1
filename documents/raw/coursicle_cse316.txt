@@ -1,0 +1,54 @@
+SOURCE_NAME: coursicle_cse316
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/316/
+---
+CSE 316 at SBU - 18 Reviews & Ratings, Fall 2026 professors
+CSE at SBU
+CSE 316 - Fundamentals of Software Development
+Professor Reviews
+Richard Mckenna
+•
+3y
+Junior
+CSE
+If you emailed Richard for 2 points back on a project because the thing he asked for was not in your project specifications, and you had a terminal illness, he would respond to your email 3 weeks after your funeral to deny your request. If Richard ever became accessible through email or piazza, it would be proof that god is real.
+Paul Fodor
+•
+3y
+Sophomore
+CSE
+I took CSE316 with Professor Fodor, and it was an easy class. His lectures were sometimes too dry, but he was trying his best to keep everyone focused during each lecture. The assignments were not hard at all. You just do what you have to do, and you will pass with an A or A-.
+Read all 18 reviews of CSE 316
+Recent Professors
+Tony Mione
+,
+Richard Mckenna
+,
+Christopher Kane
+,
+Antonino Mione
+,
+Joydeep Mitra
+,
+Alexander Kuhn
+,
+Paul Fodor
+Recent Semesters
+Fall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024
+Class Size
+30-250
+Credits
+3
+Fall 2026 Sections
+View Fall 2026 sections of CSE 316
+👟 Track which blocks you've walked in NYC
+We made
+WalkNYC
+, an app that helps you walk every block.
+Avg. Professor Rating
+84
+Description
+Introduction to systematic design, development and testing of software systems, including event-driven programming, information management, databases, principles and practices for secure computing, and version control. Students apply these skills in the construction of large, robust programs. Enrollment Requirements: SUNY Korea Undergraduate Program Prerequisites: C or higher in CSE 216 or CSE 260 or CSE 307; CSE major.
+Usually Offered
+TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)
+Attributes
+ESI_PART Evaluate & Synthesize Researched Info EXP+_PART Experiential Learning SBS+_PART Social and Behavioral Sciences STEM+_PART Science, Technology, Engineering & Math
