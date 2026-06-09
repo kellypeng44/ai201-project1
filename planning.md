@@ -10,6 +10,13 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Unofficial Guide to Popular Upper-Division CSE Electives at Stony Brook University
+
+### Scope
+Covers 8 commonly discussed CSE upper-division electies: CSE 303, CSE 306, CSE 312, CSE 316, CSE 320, CSE 337, CSE 373, and CSE 416. Focusing on student experiences with workload, difficulty, grading, professor teaching style and career usefulness. It also will include professor's information like research area or academic background to help students to understand professor's background better.
+
+### why is it useful
+Unlike required courses, upper-division CSE electives give students more freedom, which also makes course selection harder. This guide helps students compare official course information with unofficial student reviews from sources like Reddit, Rate My Professors, and Coursicle before making enrollment decisions.
 
 ---
 
@@ -20,16 +27,18 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | SBU CS faculty page | Official list of CS faculty, titles, research/teaching areas | https://www.cs.stonybrook.edu/people/faculty |
+| 2 | SBU CS undergraduate course list | Official CSE course numbers and titles | https://www.cs.stonybrook.edu/students/Undergraduate-Studies/csecourses |
+| 3 | SBU Computer Science BS catalog | Degree requirements and course structure | https://catalog.stonybrook.edu/preview_program.php?catoid=11&poid=1411 |
+| 4 | Rate My Professors CS professors | list of professor ratings across SBU CS major | https://www.ratemyprofessors.com/search/professors/971?q=*&did=11 |
+| 5 | Rate My Professors — individual CSE professors | Ratings, difficulty, would-take-again, review text per class | https://www.ratemyprofessors.com/professor/2640556 |
+| 6 | Professor Reviews on Coursicle | student reviews | https://www.coursicle.com/professors/ |
+| 7 | Coursicle SBU CSE course pages | Student reviews and course descriptions for individual CSE courses | https://www.coursicle.com/stonybrook/courses/CSE/337/ |
+| 8 | r/SBU "What does it take to pass CSE 320" | CSE 320 related information | https://www.reddit.com/r/SBU/comments/1osu0wo/what_does_it_take_to_pass_cse_320 |
+| 9 | r/SBU "Questions about CSE 316" | CSE 316 related information | https://www.reddit.com/r/SBU/comments/1emwui9/questions_about_cse_316 |
+| 10 | r/SBU “CSE320 and CSE 316” | Student advice about whether taking CSE 320 and CSE 316 together is manageable | https://www.reddit.com/r/SBU/comments/dqgcow/cse320_and_cse_316 |
+| 11 | r/SBU “CSE Major Difficulty” | Broad student discussion about which upper-division CSE courses are difficult, including CSE 306, CSE 320, CSE 312, and CSE 373 | https://www.reddit.com/r/SBU/comments/ka92z6/cse_major_difficulty/ |
+| 12 | r/SBU “What are the most useful CSE electives” | Student discussion about career usefulness and practical value of different CSE electives | https://www.reddit.com/r/SBU/comments/mouep1/what_are_the_most_useful_cse_electives |
 
 ---
 
