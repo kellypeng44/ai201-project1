@@ -1,0 +1,32 @@
+SOURCE_NAME: coursicle_cse416
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/416/
+---
+CSE 416 - Software Engineering at Stony Brook University
+
+Credits: 3
+Class Size: 20-60 students
+Average Professor Rating: 61
+Usually Offered: TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)
+Attributes: ESI_PART, EXP+_PART, SBS+_PART, STEM+_PART
+
+Description: This course introduces the basic concepts and modern tools and techniques of software engineering. It covers system requirements, specifications, object-oriented design, implementation, integration, testing, project management, documentation, maintenance, and human factors. Enrollment Requirements: Prerequisites: C or higher in CSE 316; U4 standing; CSE major.
+
+Professor Reviews
+
+Robert Kelly
+1y
+Junior
+CSE
+The professor is insanely inconsistent in grading presentations. Suggests avoiding his disapproval to receive fair grades.
+
+Richard Mckenna
+1y
+Senior
+CSE
+McKenna's lectures were often disorganized and unhelpful, with insufficient technology knowledge. However, the project was engaging, and external study resources proved beneficial for exam preparation.
+
+Recent Professors
+Yoon Yang, Robert Kelly, Mohammad Amiri, Shuai Mu, Richard Mckenna, Scott Stoller, Abid Malik, Jihoon Ryoo, Arthur Lee, Alexander Kuhn
+
+Recent Semesters
+Fall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024

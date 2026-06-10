@@ -1,0 +1,28 @@
+SOURCE_NAME: coursicle_cse320
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/320/
+---
+CSE 320 - Systems Fundamentals II at Stony Brook University
+
+Credits: 3
+Class Size: 30-250 students
+Average Professor Rating: 58
+Usually Offered: TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)
+
+Description: This course introduces essential concepts of operating systems, compilers, concurrency, and performance analysis, focused around several cross-cutting examples, such as memory management, error handling, and threaded programming. Students examine operating systems from an application programmer's perspective, emphasizing OS APIs. A companion course, CSE 306, covers OS from the kernel implementer's viewpoint. Enrollment Requirements: Prerequisites: C or higher in CSE 220; CSE major.
+
+Professor Reviews
+
+Jennifer Wong-Ma
+3y
+Sophomore
+COM
+Hope to never see her any more
+
+Eugene Stark
+3y
+Senior
+CSE
+Stark demonstrates strong C knowledge and enthusiasm, though sometimes his answers aren't exactly coherent, and lecture was just a negative. Homeworks are lengthy but manageable. Students are advised to study the textbook and complete practice problems before exams.
+
+Recent Professors
+Youngmin Kwon, Daniel Benz, Yoon Yang, Antonino Mione, Stuart Eisenstadt

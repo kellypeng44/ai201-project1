@@ -1,0 +1,28 @@
+SOURCE_NAME: coursicle_cse373
+SOURCE_URL: https://www.coursicle.com/stonybrook/courses/CSE/373/
+---
+CSE 373 - Analysis of Algorithms at Stony Brook University
+
+Credits: 3
+Class Size: 20-218 students
+Average Professor Rating: 67
+Usually Offered: TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)
+
+Description: Mathematical analysis of a variety of computer algorithms including searching, sorting, matrix multiplication, fast Fourier transform, and graph algorithms, covering complexity analysis and NP completeness, with programming components. Enrollment Requirements: Prerequisites: C or higher in CSE 113/150/215 or MAT 200/250; MAT 211 or AMS 210; CSE 214 or CSE 260; CSE/MAT/DAS major required.
+
+Professor Reviews
+
+Robert Johnson
+3y
+Junior
+CSE
+He explains very simple things in complicated ways that makes it difficult to follow along. Recommends taking the course with Skiena instead.
+
+Rezaul Chowdhury
+3y
+Graduate
+CSE
+Very hard to understand during lecture and with very difficult assignments. Recommends avoiding this professor, citing unprepared lectures.
+
+Recent Professors
+James Finn, Steven Skiena, Dominik Kempa, Rezaul Chowdhury, Jihoon Ryoo, Himanshu Gupta, Robert Patro

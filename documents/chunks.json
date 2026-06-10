@@ -150,6 +150,18 @@
     "chunk_index": 2
   },
   {
+    "text": "CSE 320 - Systems Fundamentals II at Stony Brook University\n\nCredits: 3\nClass Size: 30-250 students\nAverage Professor Rating: 58\nUsually Offered: TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)\n\nDescription: This course introduces essential concepts of operating systems, compilers, concurrency, and performance analysis, focused around several cross-cutting examples, such as memory management, error handling, and threaded programming. Students examine operating systems from an application programmer's perspective, emphasizing OS APIs. A companion course, CSE 306, covers OS from the kernel implementer's viewpoint. Enrollment Requirements: Prerequisites: C or higher in CSE 220; CSE major.\n\nProfessor Reviews\n\nJennifer Wong-Ma\n3y\nSophomore\nCOM\nHope to never see her any more",
+    "source_name": "coursicle_cse320",
+    "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/320/",
+    "chunk_index": 0
+  },
+  {
+    "text": "Professor Reviews\n\nJennifer Wong-Ma\n3y\nSophomore\nCOM\nHope to never see her any more\n\nEugene Stark\n3y\nSenior\nCSE\nStark demonstrates strong C knowledge and enthusiasm, though sometimes his answers aren't exactly coherent, and lecture was just a negative. Homeworks are lengthy but manageable. Students are advised to study the textbook and complete practice problems before exams.\n\nRecent Professors\nYoungmin Kwon, Daniel Benz, Yoon Yang, Antonino Mione, Stuart Eisenstadt",
+    "source_name": "coursicle_cse320",
+    "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/320/",
+    "chunk_index": 1
+  },
+  {
     "text": "CSE 337 at SBU - 41 Reviews & Ratings, Fall 2026 professors\nCSE at SBU\nCSE 337 - Scripting Languages\nProfessor Reviews\nYanni Liu\n•\n3y\nJunior\nCSE\nYanni Lui is one of my favorite professors in the CS department. She's a great lecturer and genuinely cares about the success of her students. The class is mainly assignments (python, perl, and some sys admin) and quizzes. One final exam and theres lots of extra credit. I learned a lot about scripting and highly recommend it.\nJoydeep Mitra\n•\n3y\nJunior\nCSE\nWorst Professor I ever had in my life. This guy thinks that were all some kind of machines and we can magically interpret difficult code. Made this class unnecessarily hard. Impossible quizzes and tests along with extremely lengthy and unclear assignments. So just dont do it.\nRead all 41 reviews of CSE 337\nRecent Professors\nAbid Malik\n,",
     "source_name": "coursicle_cse337",
     "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/337/",
@@ -166,6 +178,30 @@
     "source_name": "coursicle_cse337",
     "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/337/",
     "chunk_index": 2
+  },
+  {
+    "text": "CSE 373 - Analysis of Algorithms at Stony Brook University\n\nCredits: 3\nClass Size: 20-218 students\nAverage Professor Rating: 67\nUsually Offered: TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)\n\nDescription: Mathematical analysis of a variety of computer algorithms including searching, sorting, matrix multiplication, fast Fourier transform, and graph algorithms, covering complexity analysis and NP completeness, with programming components. Enrollment Requirements: Prerequisites: C or higher in CSE 113/150/215 or MAT 200/250; MAT 211 or AMS 210; CSE 214 or CSE 260; CSE/MAT/DAS major required.\n\nProfessor Reviews\n\nRobert Johnson\n3y\nJunior\nCSE\nHe explains very simple things in complicated ways that makes it difficult to follow along. Recommends taking the course with Skiena instead.",
+    "source_name": "coursicle_cse373",
+    "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/373/",
+    "chunk_index": 0
+  },
+  {
+    "text": "Rezaul Chowdhury\n3y\nGraduate\nCSE\nVery hard to understand during lecture and with very difficult assignments. Recommends avoiding this professor, citing unprepared lectures.\n\nRecent Professors\nJames Finn, Steven Skiena, Dominik Kempa, Rezaul Chowdhury, Jihoon Ryoo, Himanshu Gupta, Robert Patro",
+    "source_name": "coursicle_cse373",
+    "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/373/",
+    "chunk_index": 1
+  },
+  {
+    "text": "CSE 416 - Software Engineering at Stony Brook University\n\nCredits: 3\nClass Size: 20-60 students\nAverage Professor Rating: 61\nUsually Offered: TuTh (1 hour 20 minutes), MW (1 hour 20 minutes)\nAttributes: ESI_PART, EXP+_PART, SBS+_PART, STEM+_PART\n\nDescription: This course introduces the basic concepts and modern tools and techniques of software engineering. It covers system requirements, specifications, object-oriented design, implementation, integration, testing, project management, documentation, maintenance, and human factors. Enrollment Requirements: Prerequisites: C or higher in CSE 316; U4 standing; CSE major.\n\nProfessor Reviews\n\nRobert Kelly\n1y\nJunior\nCSE\nThe professor is insanely inconsistent in grading presentations. Suggests avoiding his disapproval to receive fair grades.",
+    "source_name": "coursicle_cse416",
+    "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/416/",
+    "chunk_index": 0
+  },
+  {
+    "text": "Richard Mckenna\n1y\nSenior\nCSE\nMcKenna's lectures were often disorganized and unhelpful, with insufficient technology knowledge. However, the project was engaging, and external study resources proved beneficial for exam preparation.\n\nRecent Professors\nYoon Yang, Robert Kelly, Mohammad Amiri, Shuai Mu, Richard Mckenna, Scott Stoller, Abid Malik, Jihoon Ryoo, Arthur Lee, Alexander Kuhn\n\nRecent Semesters\nFall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024",
+    "source_name": "coursicle_cse416",
+    "source_url": "https://www.coursicle.com/stonybrook/courses/CSE/416/",
+    "chunk_index": 1
   },
   {
     "text": "Professor: Eugene Stark\nSource: Coursicle\n\nCourse: CSE 320 | Year: Senior | Major: CSE\nThe thing about Stark is he really knows C and tries to sound enthusiastic about it. However, sometimes his answers aren't exactly coherent, and lecture was just a negative. Homeworks are long, but doable. Make sure you read the textbook and do practice exercises for his tests, you'll really need it.\n\nCourse: CSE 320 | Year: Senior | Major: CSE\nHis programming exams are all multiple choice. He does not answer ANY questions during the exam and his lectures are very boring. Less then 15 people show up, during the exam there is over 90+ students. His exams have VERY specific questions related to programming, things you wouldn't know unless you tried them out.",
