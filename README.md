@@ -1,4 +1,4 @@
-# The Unofficial Guide — Project 1
+# The Unofficial Guide — CSE Electives at Stony Brook University
 
 **Demo Video:** [https://youtu.be/hLxRNSkt6qQ](https://youtu.be/hLxRNSkt6qQ)
 
