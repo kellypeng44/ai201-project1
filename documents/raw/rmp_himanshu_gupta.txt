@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_himanshu_gupta
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci01MzQ0Nzg=
+SOURCE_URL: https://www.ratemyprofessors.com/professor/534478
 ---
 Professor: Himanshu Gupta
 Source: Rate My Professors

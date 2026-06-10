@@ -1,5 +1,5 @@
 SOURCE_NAME: coursicle_eugene_stark
-SOURCE_URL: https://www.coursicle.com/stonybrook/professors/EugeneStark/
+SOURCE_URL: https://www.coursicle.com/professors/
 ---
 Professor: Eugene Stark
 Source: Coursicle

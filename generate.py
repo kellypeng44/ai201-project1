@@ -13,7 +13,9 @@ Usage:
     python generate.py
 """
 
+import json
 import os
+from pathlib import Path
 
 from dotenv import load_dotenv
 from groq import Groq
@@ -29,6 +31,34 @@ GROQ_MODEL = "llama-3.3-70b-versatile"
 # the source list when nothing actually grounded the answer.
 NO_INFO_RESPONSE = "I don't have enough information on that."
 
+# documents/raw/metadata.json carries human-written descriptions for most
+# top-level sources (catalog pages, course-specific Coursicle/Reddit threads).
+_METADATA_FILE = Path("documents/raw/metadata.json")
+_DESCRIPTIONS = (
+    {k: v["description"] for k, v in json.loads(_METADATA_FILE.read_text(encoding="utf-8")).items()}
+    if _METADATA_FILE.exists()
+    else {}
+)
+
+def display_name(source_name: str) -> str:
+    """Human-readable label for a source_name, used for citations and the UI.
+
+    Falls back to a generated label for the per-professor RMP/Coursicle
+    pages, which aren't listed in metadata.json.
+    """
+    if source_name in _DESCRIPTIONS:
+        return _DESCRIPTIONS[source_name]
+
+    if source_name.startswith("rmp_"):
+        person = source_name.removeprefix("rmp_").replace("_", " ").title()
+        return f"RateMyProfessors — {person}"
+
+    if source_name.startswith("coursicle_"):
+        person = source_name.removeprefix("coursicle_").replace("_", " ").title()
+        return f"Coursicle — {person}"
+
+    return source_name
+
 SYSTEM_PROMPT = f"""You are a course-and-professor advisor for the "Unofficial Guide to \
 Stony Brook CSE Electives," built from student reviews (Reddit, Rate My \
 Professors, Coursicle) and official course/faculty pages.
@@ -40,13 +70,28 @@ Follow these rules exactly:
 1. Answer using ONLY information found in the CONTEXT below. Do not use any \
 outside knowledge, training data, or assumptions about Stony Brook, CSE \
 courses, or professors — even if you believe you know the answer.
-2. When you state a fact, name the source it came from inline, e.g. \
-"(source: rmp_eugene_stark)", using the exact source tags shown in CONTEXT.
+2. When you state a fact, name the source it came from inline using the \
+exact "(source: ...)" tag shown above that excerpt in CONTEXT, e.g. \
+"(source: RateMyProfessors — Eugene Stark)".
 3. If the CONTEXT does not contain enough information to answer the \
 QUESTION, respond with EXACTLY this sentence and nothing else: \
 "{NO_INFO_RESPONSE}"
 4. Never fill gaps with general knowledge, speculation, or "typically" / \
-"usually" style reasoning that isn't grounded in the CONTEXT."""
+"usually" style reasoning that isn't grounded in the CONTEXT.
+5. Write as if you're directly answering the user — never refer to "the \
+CONTEXT", "the context", "the documents", "the provided excerpts", "the \
+provided information", or similar meta-language describing this prompt's \
+structure. State the information directly and let the inline source tags \
+carry the attribution.
+6. Answer with only what is actually said. Do not add disclaimers, caveats, \
+or wrap-up sentences about what else isn't covered (e.g. do not write \
+anything like "no other electives are mentioned" or "this is the only \
+information available"). If that's all there is, just stop after stating it.
+7. Most excerpts are student opinions (Reddit, RateMyProfessors, Coursicle), \
+not established facts — phrase these as reported opinions, e.g. "Some \
+students say CSE 356 is useful for getting a job (source: ...)" rather than \
+"CSE 356 is useful for getting a job." Information from official course or \
+faculty pages can be stated directly."""
 
 
 _client = None
@@ -67,7 +112,7 @@ def _get_client() -> Groq:
 def _build_context(chunks: list[dict]) -> str:
     blocks = []
     for i, c in enumerate(chunks, 1):
-        blocks.append(f"[{i}] (source: {c['source_name']})\n{c['text']}")
+        blocks.append(f"[{i}] (source: {display_name(c['source_name'])})\n{c['text']}")
     return "\n\n".join(blocks)
 
 
@@ -80,9 +125,10 @@ def ask(query: str, k: int = 5) -> dict:
 
     Returns a dict with:
       - answer:  the model's grounded response (str)
-      - sources: deduplicated source_names of the retrieved chunks, in
-                  retrieval order. Empty if the model declined to answer
-                  (i.e. the context wasn't relevant enough).
+      - sources: deduplicated {"name": <readable label>, "url": <source_url>}
+                  dicts for the retrieved chunks, in retrieval order. Empty
+                  if the model declined to answer (i.e. the context wasn't
+                  relevant enough).
       - chunks:  the raw retrieved chunks, for debugging/inspection
     """
     chunks = retrieve(query, k=k)
@@ -114,7 +160,7 @@ def ask(query: str, k: int = 5) -> dict:
         for c in chunks:
             if c["source_name"] not in seen:
                 seen.add(c["source_name"])
-                sources.append(c["source_name"])
+                sources.append({"name": display_name(c["source_name"]), "url": c["source_url"]})
 
     return {"answer": answer, "sources": sources, "chunks": chunks}
 
@@ -132,7 +178,12 @@ def main():
         print(f"{'=' * 70}")
         result = ask(q)
         print(f"\nA: {result['answer']}")
-        print(f"\nSources: {', '.join(result['sources']) or '(none)'}")
+        if result["sources"]:
+            print("\nSources:")
+            for s in result["sources"]:
+                print(f"  - {s['name']} ({s['url']})")
+        else:
+            print("\nSources: (none)")
 
 
 if __name__ == "__main__":

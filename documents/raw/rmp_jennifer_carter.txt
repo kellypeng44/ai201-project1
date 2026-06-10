@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_jennifer_carter
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0xMjE1NTY3
+SOURCE_URL: https://www.ratemyprofessors.com/professor/1215567
 ---
 Professor: Jennifer Carter
 Source: Rate My Professors

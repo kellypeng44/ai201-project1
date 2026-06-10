@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_anita_wasilewska
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0zMzgzMDc=
+SOURCE_URL: https://www.ratemyprofessors.com/professor/338307
 ---
 Professor: Anita Wasilewska
 Source: Rate My Professors

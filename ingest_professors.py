@@ -19,6 +19,7 @@ Output: one file per professor in documents/raw/
 """
 
 import argparse
+import base64
 import html
 import json
 import re
@@ -166,6 +167,18 @@ def slug(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
 
 
+def rmp_profile_url(rmp_id: str) -> str:
+    """Build a working RMP profile URL from a base64 'Teacher-<numeric id>' rmp_id.
+
+    RMP profile pages are keyed by the numeric id only
+    (https://www.ratemyprofessors.com/professor/<numeric id>) — the raw
+    base64 string returns a 404.
+    """
+    decoded = base64.b64decode(rmp_id).decode()  # "Teacher-926577"
+    numeric_id = decoded.removeprefix("Teacher-")
+    return f"https://www.ratemyprofessors.com/professor/{numeric_id}"
+
+
 def save_rmp(professor_name: str, rmp_id: str, reviews: list[dict]) -> Path:
     lines = [f"Professor: {professor_name}", f"Source: Rate My Professors", ""]
     for rev in reviews:
@@ -175,7 +188,7 @@ def save_rmp(professor_name: str, rmp_id: str, reviews: list[dict]) -> Path:
         lines.append("")
     text = "\n".join(lines)
     path = RAW_DIR / f"rmp_{slug(professor_name)}.txt"
-    header = f"SOURCE_NAME: rmp_{slug(professor_name)}\nSOURCE_URL: https://www.ratemyprofessors.com/professor/{rmp_id}\n---\n"
+    header = f"SOURCE_NAME: rmp_{slug(professor_name)}\nSOURCE_URL: {rmp_profile_url(rmp_id)}\n---\n"
     path.write_text(header + text, encoding="utf-8")
     return path
 
@@ -193,7 +206,9 @@ def save_coursicle(professor_name: str, reviews: list[dict]) -> Path:
         lines.append("")
     text = "\n".join(lines)
     path = RAW_DIR / f"coursicle_{slug(professor_name)}.txt"
-    header = f"SOURCE_NAME: coursicle_{slug(professor_name)}\nSOURCE_URL: https://www.coursicle.com/stonybrook/professors/{professor_name.replace(' ', '')}/\n---\n"
+    # Coursicle has no stable per-professor review URL reachable from outside
+    # the app, so link to the general professor search page instead.
+    header = f"SOURCE_NAME: coursicle_{slug(professor_name)}\nSOURCE_URL: https://www.coursicle.com/professors/\n---\n"
     path.write_text(header + text, encoding="utf-8")
     return path
 

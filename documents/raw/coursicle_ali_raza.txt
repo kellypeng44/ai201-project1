@@ -1,5 +1,5 @@
 SOURCE_NAME: coursicle_ali_raza
-SOURCE_URL: https://www.coursicle.com/stonybrook/professors/AliRaza/
+SOURCE_URL: https://www.coursicle.com/professors/
 ---
 Professor: Ali Raza
 Source: Coursicle

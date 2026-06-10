@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_richard_mckenna
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0yNjY4OTM=
+SOURCE_URL: https://www.ratemyprofessors.com/professor/266893
 ---
 Professor: Richard Mckenna
 Source: Rate My Professors

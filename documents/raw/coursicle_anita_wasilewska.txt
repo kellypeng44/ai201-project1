@@ -1,5 +1,5 @@
 SOURCE_NAME: coursicle_anita_wasilewska
-SOURCE_URL: https://www.coursicle.com/stonybrook/professors/AnitaWasilewska/
+SOURCE_URL: https://www.coursicle.com/professors/
 ---
 Professor: Anita Wasilewska
 Source: Coursicle

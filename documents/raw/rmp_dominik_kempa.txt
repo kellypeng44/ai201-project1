@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_dominik_kempa
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0yOTcxNDA4
+SOURCE_URL: https://www.ratemyprofessors.com/professor/2971408
 ---
 Professor: Dominik Kempa
 Source: Rate My Professors

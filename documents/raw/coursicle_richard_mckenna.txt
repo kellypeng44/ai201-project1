@@ -1,5 +1,5 @@
 SOURCE_NAME: coursicle_richard_mckenna
-SOURCE_URL: https://www.coursicle.com/stonybrook/professors/RichardMckenna/
+SOURCE_URL: https://www.coursicle.com/professors/
 ---
 Professor: Richard Mckenna
 Source: Coursicle

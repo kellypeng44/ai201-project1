@@ -1,5 +1,5 @@
 SOURCE_NAME: coursicle_himanshu_gupta
-SOURCE_URL: https://www.coursicle.com/stonybrook/professors/HimanshuGupta/
+SOURCE_URL: https://www.coursicle.com/professors/
 ---
 Professor: Himanshu Gupta
 Source: Coursicle

@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_eugene_stark
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci05MjY1Nzc=
+SOURCE_URL: https://www.ratemyprofessors.com/professor/926577
 ---
 Professor: Eugene Stark
 Source: Rate My Professors

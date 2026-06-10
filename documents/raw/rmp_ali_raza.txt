@@ -1,5 +1,5 @@
 SOURCE_NAME: rmp_ali_raza
-SOURCE_URL: https://www.ratemyprofessors.com/professor/VGVhY2hlci0yNjcwNjkz
+SOURCE_URL: https://www.ratemyprofessors.com/professor/2670693
 ---
 Professor: Ali Raza
 Source: Rate My Professors

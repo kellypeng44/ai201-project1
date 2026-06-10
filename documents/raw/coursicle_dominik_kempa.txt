@@ -1,5 +1,5 @@
 SOURCE_NAME: coursicle_dominik_kempa
-SOURCE_URL: https://www.coursicle.com/stonybrook/professors/DominikKempa/
+SOURCE_URL: https://www.coursicle.com/professors/
 ---
 Professor: Dominik Kempa
 Source: Coursicle
